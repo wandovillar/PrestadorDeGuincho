@@ -1,0 +1,778 @@
+id_assistenciaaceita,id_produto,id_prestador,codigo,dataassis,nome_segurado,servico,enderecoretirada,enderecoentrega,veiculo,valorsaida,valorhoraparada,valorhoratrabalhada,valortotalassist
+1,1,19,6775,2024-01-24,Ana Pereira,Remoção,"Rua XV de Novembro, 500","Avenida Paulista, 865",Ford Ka,180.00,40.0,40.0,260.00
+2,2,11,9426,2024-01-26,Lucas Rocha,Troca de Pneus,"Avenida Independência, 453","Avenida Tiradentes, 788",VW Gol,80.00,,40.0,120.00
+3,1,9,1457,2024-01-01,Paulo Lima,Remoção,"Avenida Independência, 764","Rua Dom Pedro, 16",Honda Civic,180.00,40.0,40.0,260.00
+4,1,10,6641,2024-01-14,Clara Gomes,Remoção,"Rua dos Navegantes, 36","Avenida Atlântica, 831",VW Gol,180.00,40.0,40.0,260.00
+5,2,12,7221,2024-01-10,Maria Oliveira,Remoção,"Avenida Independência, 413","Avenida Paulista, 608",Harley Davidson,180.00,40.0,40.0,260.00
+6,3,4,5908,2024-01-09,João Silva,Carga de Bateria,"Rua das Palmeiras, 540","Rua XV de Novembro, 681",Chevrolet Onix,80.00,,40.0,120.00
+7,2,14,1557,2024-01-23,Pedro Barbosa,Troca de Pneus,"Rua das Palmeiras, 337","Rua dos Navegantes, 847",Yamaha Fazer,80.00,,,80.00
+8,3,14,2500,2024-01-19,Maria Oliveira,Remoção,"Rua dos Navegantes, 362","Avenida Atlântica, 953",Renault Duster,180.00,,,180.00
+9,1,11,9184,2024-01-15,Ana Pereira,Carga de Bateria,"Rua das Flores, 219","Avenida Tiradentes, 80",VW Gol,80.00,40.0,,120.00
+10,1,1,9636,2024-01-03,Ana Pereira,Carga de Bateria,"Avenida Paulista, 378","Rua XV de Novembro, 847",VW Gol,80.00,40.0,,120.00
+11,2,18,5518,2024-01-20,Ana Pereira,Troca de Pneus,"Avenida Atlântica, 133","Avenida Independência, 79",Fiat Strada,80.00,,,80.00
+12,2,11,6816,2024-01-20,Carlos Souza,Carga de Bateria,"Avenida Paulista, 369","Rua das Flores, 978",Ford Ka,80.00,,,80.00
+13,3,11,4987,2024-01-06,Ana Pereira,Carga de Bateria,"Rua dos Navegantes, 153","Avenida Paulista, 145",Chevrolet Onix,80.00,,40.0,120.00
+14,2,1,9795,2024-01-08,Carlos Souza,Troca de Pneus,"Avenida Independência, 971","Rua Dom Pedro, 534",Chevrolet Onix,80.00,,,80.00
+15,3,2,3759,2024-01-26,Pedro Barbosa,Troca de Pneus,"Rua das Flores, 925","Rua Dom Pedro, 523",Harley Davidson,80.00,,,80.00
+16,1,17,1473,2024-01-22,Fernanda Ribeiro,Carga de Bateria,"Rua XV de Novembro, 816","Rua dos Navegantes, 911",Fiat Strada,80.00,40.0,40.0,160.00
+17,3,11,7282,2024-01-17,Pedro Barbosa,Troca de Pneus,"Avenida Paulista, 848","Avenida Tiradentes, 72",Jeep Renegade,80.00,40.0,40.0,160.00
+18,2,11,7932,2024-01-26,Fernanda Ribeiro,Carga de Bateria,"Rua XV de Novembro, 415","Avenida Paulista, 440",Chevrolet Onix,80.00,40.0,40.0,160.00
+19,1,20,9374,2024-01-26,Lucas Rocha,Troca de Pneus,"Avenida Tiradentes, 502","Rua XV de Novembro, 863",Honda Civic,80.00,40.0,,120.00
+20,3,12,2955,2024-01-03,Lucas Rocha,Remoção,"Rua Dom Pedro, 104","Avenida Tiradentes, 138",Jeep Renegade,180.00,40.0,40.0,260.00
+21,1,20,4745,2024-01-25,Pedro Barbosa,Remoção,"Rua dos Navegantes, 597","Rua Dom Pedro, 106",Harley Davidson,180.00,40.0,40.0,260.00
+22,2,13,9628,2024-01-09,João Silva,Carga de Bateria,"Rua das Palmeiras, 314","Rua das Palmeiras, 864",Honda Civic,80.00,,40.0,120.00
+23,2,15,8642,2024-01-21,Ana Pereira,Remoção,"Avenida Atlântica, 177","Avenida Independência, 143",Fiat Strada,180.00,,,180.00
+24,1,15,4651,2024-01-03,Carlos Souza,Carga de Bateria,"Rua dos Navegantes, 143","Avenida Paulista, 600",VW Gol,80.00,,,80.00
+25,3,7,9941,2024-01-11,Maria Oliveira,Remoção,"Avenida Independência, 779","Rua dos Navegantes, 608",Yamaha Fazer,180.00,,40.0,220.00
+26,1,11,3064,2024-01-08,Ana Pereira,Troca de Pneus,"Rua Dom Pedro, 126","Rua Dom Pedro, 526",VW Gol,80.00,,,80.00
+27,3,19,6991,2024-01-05,Ana Pereira,Troca de Pneus,"Rua das Flores, 13","Avenida Independência, 97",Chevrolet Onix,80.00,,40.0,120.00
+28,1,10,4995,2024-01-20,Carlos Souza,Remoção,"Rua dos Navegantes, 845","Rua das Flores, 907",Ford Ka,180.00,40.0,40.0,260.00
+29,3,3,6266,2024-01-14,Ana Pereira,Troca de Pneus,"Avenida Tiradentes, 367","Avenida Paulista, 487",Honda Civic,80.00,40.0,,120.00
+30,2,1,9066,2024-01-05,Carlos Souza,Remoção,"Rua das Palmeiras, 460","Avenida Tiradentes, 27",VW Gol,180.00,,,180.00
+31,3,7,7589,2024-01-18,Juliana Costa,Carga de Bateria,"Avenida Paulista, 56","Avenida Paulista, 870",Jeep Renegade,80.00,,40.0,120.00
+32,2,17,3197,2024-01-20,Paulo Lima,Carga de Bateria,"Rua dos Navegantes, 57","Avenida Independência, 574",Jeep Renegade,80.00,40.0,40.0,160.00
+33,1,3,9560,2024-01-20,Fernanda Ribeiro,Carga de Bateria,"Rua XV de Novembro, 82","Rua Dom Pedro, 806",Harley Davidson,80.00,40.0,40.0,160.00
+34,3,10,5316,2024-01-05,Paulo Lima,Carga de Bateria,"Rua dos Navegantes, 857","Avenida Atlântica, 738",VW Gol,80.00,40.0,,120.00
+35,2,8,4472,2024-01-03,Clara Gomes,Remoção,"Rua das Palmeiras, 993","Avenida Independência, 546",Harley Davidson,180.00,40.0,40.0,260.00
+36,3,14,5577,2024-01-10,Maria Oliveira,Carga de Bateria,"Avenida Independência, 156","Rua XV de Novembro, 887",Harley Davidson,80.00,,,80.00
+37,1,6,1940,2024-01-09,Fernanda Ribeiro,Remoção,"Avenida Atlântica, 463","Rua das Flores, 737",Fiat Strada,180.00,,40.0,220.00
+38,2,1,2616,2024-01-27,Paulo Lima,Carga de Bateria,"Rua Dom Pedro, 694","Avenida Paulista, 947",Chevrolet Onix,80.00,40.0,40.0,160.00
+39,1,19,6047,2024-01-06,João Silva,Remoção,"Rua das Flores, 177","Avenida Paulista, 232",Honda Civic,180.00,,,180.00
+40,3,5,5482,2024-01-15,Maria Oliveira,Troca de Pneus,"Rua das Flores, 961","Rua XV de Novembro, 497",Jeep Renegade,80.00,,40.0,120.00
+41,3,9,9843,2024-01-15,Juliana Costa,Troca de Pneus,"Avenida Independência, 834","Rua das Flores, 247",Honda Civic,80.00,,,80.00
+42,2,13,5981,2024-01-27,Ana Pereira,Remoção,"Rua XV de Novembro, 71","Avenida Atlântica, 252",Yamaha Fazer,180.00,40.0,,220.00
+43,1,15,5420,2024-01-22,Pedro Barbosa,Remoção,"Rua XV de Novembro, 714","Avenida Tiradentes, 365",Jeep Renegade,180.00,,40.0,220.00
+44,2,13,8593,2024-01-22,Maria Oliveira,Remoção,"Rua das Flores, 337","Avenida Atlântica, 356",Fiat Strada,180.00,40.0,,220.00
+45,2,17,6307,2024-01-05,Paulo Lima,Troca de Pneus,"Rua XV de Novembro, 586","Rua Dom Pedro, 871",Fiat Strada,80.00,,40.0,120.00
+46,3,4,4026,2024-01-20,Carlos Souza,Remoção,"Rua das Palmeiras, 210","Rua XV de Novembro, 205",Renault Duster,180.00,,,180.00
+47,1,11,1826,2024-01-19,Fernanda Ribeiro,Troca de Pneus,"Rua das Flores, 675","Avenida Tiradentes, 429",Chevrolet Onix,80.00,,40.0,120.00
+48,3,1,4590,2024-01-05,Lucas Rocha,Carga de Bateria,"Avenida Paulista, 293","Rua das Palmeiras, 286",Fiat Strada,80.00,,,80.00
+49,3,10,9404,2024-01-05,Lucas Rocha,Troca de Pneus,"Avenida Paulista, 250","Avenida Paulista, 797",Honda Civic,80.00,,40.0,120.00
+50,2,7,4155,2024-01-03,Lucas Rocha,Carga de Bateria,"Avenida Independência, 136","Rua dos Navegantes, 675",Toyota Corolla,80.00,40.0,40.0,160.00
+51,2,19,2588,2024-02-04,Lucas Rocha,Carga de Bateria,"Rua dos Navegantes, 343","Avenida Paulista, 835",Fiat Strada,80.00,40.0,40.0,160.00
+52,3,9,5204,2024-02-18,Carlos Souza,Carga de Bateria,"Avenida Tiradentes, 133","Rua dos Navegantes, 544",VW Gol,80.00,40.0,40.0,160.00
+53,1,9,4403,2024-02-15,Pedro Barbosa,Carga de Bateria,"Avenida Paulista, 653","Avenida Paulista, 647",Yamaha Fazer,80.00,40.0,,120.00
+54,3,9,7294,2024-02-03,Lucas Rocha,Troca de Pneus,"Rua Dom Pedro, 415","Rua Dom Pedro, 765",Honda Civic,80.00,40.0,,120.00
+55,3,1,9606,2024-02-15,Paulo Lima,Remoção,"Rua das Flores, 420","Avenida Paulista, 363",Toyota Corolla,180.00,,40.0,220.00
+56,1,14,9445,2024-02-12,Lucas Rocha,Carga de Bateria,"Avenida Tiradentes, 58","Rua Dom Pedro, 288",Harley Davidson,80.00,40.0,,120.00
+57,2,4,3648,2024-02-07,João Silva,Troca de Pneus,"Rua XV de Novembro, 307","Rua das Flores, 760",Chevrolet Onix,80.00,,40.0,120.00
+58,1,6,9288,2024-02-04,Juliana Costa,Remoção,"Rua Dom Pedro, 427","Rua Dom Pedro, 947",Harley Davidson,180.00,40.0,40.0,260.00
+59,1,8,8292,2024-02-08,Maria Oliveira,Remoção,"Avenida Atlântica, 627","Avenida Paulista, 702",Honda Civic,180.00,40.0,40.0,260.00
+60,1,13,5992,2024-02-01,Lucas Rocha,Remoção,"Avenida Atlântica, 531","Avenida Atlântica, 95",Jeep Renegade,180.00,,40.0,220.00
+61,1,18,6395,2024-02-11,João Silva,Troca de Pneus,"Rua Dom Pedro, 878","Avenida Atlântica, 297",Toyota Corolla,80.00,,,80.00
+62,2,11,2227,2024-02-20,Maria Oliveira,Remoção,"Avenida Tiradentes, 745","Avenida Paulista, 341",Harley Davidson,180.00,40.0,40.0,260.00
+63,1,13,8850,2024-02-17,Carlos Souza,Troca de Pneus,"Avenida Independência, 286","Avenida Independência, 581",Ford Ka,80.00,40.0,,120.00
+64,1,19,8088,2024-02-25,João Silva,Carga de Bateria,"Avenida Atlântica, 541","Avenida Tiradentes, 787",Yamaha Fazer,80.00,,,80.00
+65,3,14,9762,2024-02-15,Ana Pereira,Remoção,"Avenida Independência, 353","Rua das Palmeiras, 388",Harley Davidson,180.00,40.0,40.0,260.00
+66,2,10,4234,2024-02-07,Clara Gomes,Carga de Bateria,"Rua Dom Pedro, 986","Rua das Palmeiras, 922",Ford Ka,80.00,,40.0,120.00
+67,1,4,5505,2024-02-24,Maria Oliveira,Remoção,"Rua Dom Pedro, 992","Rua das Flores, 10",Ford Ka,180.00,,40.0,220.00
+68,1,17,7247,2024-02-24,Pedro Barbosa,Remoção,"Rua dos Navegantes, 59","Rua das Flores, 208",Honda Civic,180.00,,40.0,220.00
+69,3,20,5957,2024-02-25,Fernanda Ribeiro,Carga de Bateria,"Rua dos Navegantes, 379","Avenida Paulista, 315",VW Gol,80.00,40.0,,120.00
+70,3,3,2873,2024-02-25,João Silva,Remoção,"Avenida Tiradentes, 137","Rua Dom Pedro, 244",Renault Duster,180.00,40.0,,220.00
+71,2,2,2331,2024-02-26,Clara Gomes,Carga de Bateria,"Rua das Flores, 758","Rua dos Navegantes, 238",Chevrolet Onix,80.00,,,80.00
+72,3,18,5997,2024-02-19,Juliana Costa,Troca de Pneus,"Avenida Tiradentes, 166","Rua das Palmeiras, 940",Toyota Corolla,80.00,40.0,40.0,160.00
+73,1,10,6298,2024-02-27,Clara Gomes,Troca de Pneus,"Avenida Paulista, 274","Avenida Paulista, 771",Ford Ka,80.00,40.0,40.0,160.00
+74,3,16,6342,2024-02-20,Lucas Rocha,Remoção,"Rua das Flores, 763","Rua XV de Novembro, 549",Honda Civic,180.00,40.0,,220.00
+75,3,12,9252,2024-02-01,Pedro Barbosa,Remoção,"Rua Dom Pedro, 350","Avenida Paulista, 106",Ford Ka,180.00,,,180.00
+76,2,2,2946,2024-02-23,Maria Oliveira,Carga de Bateria,"Avenida Paulista, 982","Avenida Atlântica, 401",Renault Duster,80.00,,40.0,120.00
+77,3,4,8397,2024-02-09,Maria Oliveira,Carga de Bateria,"Avenida Tiradentes, 88","Avenida Paulista, 768",VW Gol,80.00,,,80.00
+78,2,14,9088,2024-02-01,Fernanda Ribeiro,Troca de Pneus,"Avenida Paulista, 921","Rua das Palmeiras, 718",VW Gol,80.00,40.0,40.0,160.00
+79,2,20,1039,2024-02-09,Lucas Rocha,Remoção,"Avenida Independência, 321","Rua Dom Pedro, 339",Yamaha Fazer,180.00,40.0,40.0,260.00
+80,2,19,7458,2024-02-10,Carlos Souza,Carga de Bateria,"Avenida Independência, 906","Avenida Independência, 418",Chevrolet Onix,80.00,40.0,40.0,160.00
+81,3,12,4328,2024-02-06,Clara Gomes,Carga de Bateria,"Rua Dom Pedro, 255","Rua das Flores, 518",VW Gol,80.00,,40.0,120.00
+82,1,1,7202,2024-02-23,Fernanda Ribeiro,Remoção,"Rua XV de Novembro, 857","Avenida Independência, 624",Honda Civic,180.00,40.0,40.0,260.00
+83,2,11,1662,2024-02-14,Clara Gomes,Troca de Pneus,"Rua dos Navegantes, 913","Rua das Palmeiras, 134",Toyota Corolla,80.00,40.0,,120.00
+84,1,20,5826,2024-02-21,Ana Pereira,Remoção,"Avenida Tiradentes, 58","Rua Dom Pedro, 596",Harley Davidson,180.00,40.0,,220.00
+85,3,19,6899,2024-02-11,Carlos Souza,Carga de Bateria,"Avenida Independência, 894","Rua das Flores, 170",Yamaha Fazer,80.00,40.0,40.0,160.00
+86,1,8,3638,2024-02-13,Clara Gomes,Remoção,"Rua das Flores, 586","Avenida Paulista, 117",Fiat Strada,180.00,40.0,40.0,260.00
+87,3,17,8514,2024-02-08,Maria Oliveira,Troca de Pneus,"Rua das Flores, 205","Avenida Atlântica, 587",Harley Davidson,80.00,,,80.00
+88,2,9,5655,2024-02-06,Maria Oliveira,Carga de Bateria,"Rua Dom Pedro, 448","Rua dos Navegantes, 299",Chevrolet Onix,80.00,40.0,,120.00
+89,1,17,6333,2024-02-18,Ana Pereira,Remoção,"Avenida Atlântica, 785","Rua dos Navegantes, 722",Fiat Strada,180.00,40.0,40.0,260.00
+90,2,4,5597,2024-02-27,Carlos Souza,Carga de Bateria,"Rua XV de Novembro, 825","Rua dos Navegantes, 928",Harley Davidson,80.00,40.0,,120.00
+91,2,20,4262,2024-02-24,Carlos Souza,Carga de Bateria,"Rua dos Navegantes, 423","Rua das Flores, 253",Harley Davidson,80.00,40.0,40.0,160.00
+92,1,2,8146,2024-02-28,Paulo Lima,Carga de Bateria,"Rua Dom Pedro, 498","Rua das Flores, 602",Ford Ka,80.00,40.0,40.0,160.00
+93,3,14,7952,2024-02-05,Lucas Rocha,Remoção,"Avenida Paulista, 498","Rua Dom Pedro, 905",Harley Davidson,180.00,,40.0,220.00
+94,1,11,3743,2024-02-19,Lucas Rocha,Troca de Pneus,"Avenida Atlântica, 922","Rua das Flores, 711",Chevrolet Onix,80.00,,40.0,120.00
+95,1,15,9055,2024-02-25,João Silva,Troca de Pneus,"Avenida Independência, 589","Rua Dom Pedro, 62",VW Gol,80.00,40.0,40.0,160.00
+96,3,17,3157,2024-02-22,Maria Oliveira,Carga de Bateria,"Rua Dom Pedro, 42","Avenida Independência, 411",Toyota Corolla,80.00,,40.0,120.00
+97,1,11,7369,2024-02-01,Ana Pereira,Carga de Bateria,"Rua das Palmeiras, 856","Avenida Independência, 414",Fiat Strada,80.00,,40.0,120.00
+98,3,6,9182,2024-02-20,Carlos Souza,Carga de Bateria,"Avenida Paulista, 986","Rua das Palmeiras, 942",Renault Duster,80.00,,,80.00
+99,2,17,3999,2024-03-10,Maria Oliveira,Troca de Pneus,"Avenida Paulista, 253","Avenida Atlântica, 101",Chevrolet Onix,80.00,,40.0,120.00
+100,1,16,5093,2024-03-23,Paulo Lima,Troca de Pneus,"Rua Dom Pedro, 719","Rua das Palmeiras, 633",Chevrolet Onix,80.00,,,80.00
+101,3,9,7419,2024-03-21,Clara Gomes,Carga de Bateria,"Rua XV de Novembro, 988","Rua das Flores, 989",Yamaha Fazer,80.00,40.0,40.0,160.00
+102,3,18,4321,2024-03-14,Paulo Lima,Carga de Bateria,"Rua Dom Pedro, 310","Avenida Atlântica, 777",Toyota Corolla,80.00,,,80.00
+103,3,19,9746,2024-03-24,João Silva,Remoção,"Avenida Independência, 309","Avenida Atlântica, 334",Harley Davidson,180.00,,40.0,220.00
+104,3,3,2984,2024-03-14,João Silva,Remoção,"Rua das Palmeiras, 532","Avenida Independência, 24",Honda Civic,180.00,,,180.00
+105,3,5,8083,2024-03-09,Paulo Lima,Troca de Pneus,"Rua XV de Novembro, 118","Rua XV de Novembro, 438",Toyota Corolla,80.00,,40.0,120.00
+106,3,4,5820,2024-03-21,Juliana Costa,Remoção,"Rua das Palmeiras, 83","Rua Dom Pedro, 535",Harley Davidson,180.00,40.0,,220.00
+107,1,15,2374,2024-03-23,Ana Pereira,Carga de Bateria,"Rua XV de Novembro, 25","Avenida Atlântica, 748",Toyota Corolla,80.00,40.0,40.0,160.00
+108,2,10,7296,2024-03-04,Clara Gomes,Remoção,"Avenida Atlântica, 823","Avenida Tiradentes, 877",Honda Civic,180.00,,,180.00
+109,2,3,1449,2024-03-02,Maria Oliveira,Troca de Pneus,"Rua Dom Pedro, 955","Avenida Independência, 688",VW Gol,80.00,,,80.00
+110,3,8,9841,2024-03-27,Clara Gomes,Remoção,"Rua dos Navegantes, 569","Avenida Paulista, 413",Chevrolet Onix,180.00,40.0,,220.00
+111,2,9,5087,2024-03-26,Fernanda Ribeiro,Troca de Pneus,"Rua das Flores, 297","Rua Dom Pedro, 794",Renault Duster,80.00,40.0,40.0,160.00
+112,1,2,2540,2024-03-01,Juliana Costa,Carga de Bateria,"Rua Dom Pedro, 812","Avenida Independência, 472",Ford Ka,80.00,40.0,40.0,160.00
+113,3,1,4466,2024-03-05,Paulo Lima,Carga de Bateria,"Rua das Flores, 534","Rua das Palmeiras, 921",Renault Duster,80.00,,40.0,120.00
+114,1,1,6914,2024-03-18,Carlos Souza,Carga de Bateria,"Avenida Paulista, 635","Avenida Atlântica, 974",Ford Ka,80.00,40.0,40.0,160.00
+115,3,16,3861,2024-03-11,Lucas Rocha,Troca de Pneus,"Rua das Flores, 954","Rua XV de Novembro, 295",Ford Ka,80.00,40.0,,120.00
+116,1,16,2865,2024-03-19,Lucas Rocha,Carga de Bateria,"Rua XV de Novembro, 744","Rua dos Navegantes, 94",Fiat Strada,80.00,40.0,40.0,160.00
+117,3,3,4827,2024-03-02,Ana Pereira,Carga de Bateria,"Rua Dom Pedro, 922","Rua dos Navegantes, 899",VW Gol,80.00,,40.0,120.00
+118,2,5,1779,2024-03-26,Pedro Barbosa,Troca de Pneus,"Rua dos Navegantes, 391","Avenida Independência, 86",Fiat Strada,80.00,40.0,40.0,160.00
+119,2,19,7482,2024-03-24,Pedro Barbosa,Troca de Pneus,"Avenida Tiradentes, 71","Rua das Flores, 497",Ford Ka,80.00,,40.0,120.00
+120,2,14,4270,2024-03-12,Pedro Barbosa,Remoção,"Rua Dom Pedro, 360","Rua dos Navegantes, 26",VW Gol,180.00,,40.0,220.00
+121,3,4,2206,2024-03-10,Carlos Souza,Carga de Bateria,"Rua das Flores, 768","Avenida Atlântica, 788",Chevrolet Onix,80.00,,40.0,120.00
+122,1,15,1361,2024-03-20,Carlos Souza,Troca de Pneus,"Avenida Paulista, 595","Rua Dom Pedro, 683",VW Gol,80.00,40.0,40.0,160.00
+123,3,10,5783,2024-03-04,Ana Pereira,Remoção,"Rua XV de Novembro, 580","Avenida Independência, 561",Yamaha Fazer,180.00,40.0,,220.00
+124,3,6,8376,2024-03-03,João Silva,Troca de Pneus,"Rua das Palmeiras, 176","Avenida Independência, 676",Jeep Renegade,80.00,40.0,40.0,160.00
+125,2,1,6149,2024-03-24,Pedro Barbosa,Remoção,"Rua XV de Novembro, 109","Rua XV de Novembro, 897",Fiat Strada,180.00,40.0,,220.00
+126,3,9,3496,2024-03-10,Ana Pereira,Carga de Bateria,"Avenida Tiradentes, 131","Rua dos Navegantes, 193",Harley Davidson,80.00,40.0,40.0,160.00
+127,3,19,8823,2024-03-11,Pedro Barbosa,Carga de Bateria,"Avenida Paulista, 785","Rua XV de Novembro, 144",Toyota Corolla,80.00,,,80.00
+128,1,5,9486,2024-03-04,Paulo Lima,Carga de Bateria,"Avenida Paulista, 946","Rua Dom Pedro, 568",Honda Civic,80.00,40.0,40.0,160.00
+129,3,16,3987,2024-03-28,Maria Oliveira,Troca de Pneus,"Rua dos Navegantes, 718","Avenida Tiradentes, 49",Yamaha Fazer,80.00,,,80.00
+130,1,5,2913,2024-03-11,Clara Gomes,Remoção,"Avenida Tiradentes, 213","Avenida Tiradentes, 502",Honda Civic,180.00,40.0,,220.00
+131,1,14,2576,2024-03-24,Maria Oliveira,Troca de Pneus,"Rua dos Navegantes, 77","Avenida Paulista, 325",Toyota Corolla,80.00,40.0,,120.00
+132,3,5,3700,2024-03-16,Juliana Costa,Troca de Pneus,"Rua Dom Pedro, 423","Rua dos Navegantes, 912",VW Gol,80.00,40.0,,120.00
+133,1,12,9275,2024-03-26,Maria Oliveira,Troca de Pneus,"Rua das Palmeiras, 130","Rua XV de Novembro, 879",Ford Ka,80.00,,40.0,120.00
+134,1,12,1035,2024-03-24,Juliana Costa,Remoção,"Avenida Independência, 984","Avenida Paulista, 732",Renault Duster,180.00,40.0,,220.00
+135,1,19,3658,2024-03-28,Pedro Barbosa,Carga de Bateria,"Rua XV de Novembro, 440","Avenida Paulista, 528",Toyota Corolla,80.00,40.0,,120.00
+136,3,15,1007,2024-03-24,João Silva,Carga de Bateria,"Rua das Flores, 220","Avenida Independência, 100",Fiat Strada,80.00,40.0,,120.00
+137,3,16,1184,2024-03-13,Ana Pereira,Troca de Pneus,"Rua das Palmeiras, 787","Rua Dom Pedro, 470",Fiat Strada,80.00,40.0,40.0,160.00
+138,3,3,5424,2024-03-02,Maria Oliveira,Carga de Bateria,"Rua dos Navegantes, 845","Avenida Independência, 831",Toyota Corolla,80.00,40.0,40.0,160.00
+139,3,15,1763,2024-03-25,Lucas Rocha,Troca de Pneus,"Avenida Independência, 609","Avenida Independência, 396",VW Gol,80.00,40.0,40.0,160.00
+140,1,8,5838,2024-03-03,Lucas Rocha,Remoção,"Avenida Independência, 830","Avenida Atlântica, 735",VW Gol,180.00,40.0,40.0,260.00
+141,3,17,3620,2024-03-13,João Silva,Carga de Bateria,"Rua XV de Novembro, 556","Rua das Palmeiras, 739",VW Gol,80.00,,,80.00
+142,1,16,8049,2024-03-09,Pedro Barbosa,Troca de Pneus,"Rua das Flores, 910","Rua dos Navegantes, 322",Toyota Corolla,80.00,,,80.00
+143,1,4,2839,2024-03-07,Paulo Lima,Carga de Bateria,"Rua Dom Pedro, 860","Rua das Flores, 408",Renault Duster,80.00,,,80.00
+144,3,12,6047,2024-04-25,Juliana Costa,Remoção,"Avenida Independência, 364","Avenida Paulista, 847",VW Gol,180.00,40.0,40.0,260.00
+145,1,11,2656,2024-04-22,Carlos Souza,Troca de Pneus,"Avenida Tiradentes, 564","Avenida Atlântica, 199",Toyota Corolla,80.00,,40.0,120.00
+146,3,1,5624,2024-04-18,Fernanda Ribeiro,Remoção,"Rua das Flores, 345","Rua XV de Novembro, 481",Jeep Renegade,180.00,,,180.00
+147,2,19,9419,2024-04-01,Fernanda Ribeiro,Carga de Bateria,"Rua Dom Pedro, 166","Avenida Independência, 269",Toyota Corolla,80.00,,,80.00
+148,3,8,7994,2024-04-10,Lucas Rocha,Troca de Pneus,"Rua das Flores, 132","Rua das Palmeiras, 560",Yamaha Fazer,80.00,40.0,40.0,160.00
+149,1,11,9347,2024-04-17,Carlos Souza,Troca de Pneus,"Avenida Tiradentes, 150","Rua das Flores, 432",VW Gol,80.00,40.0,,120.00
+150,2,17,5307,2024-04-14,João Silva,Remoção,"Avenida Paulista, 255","Rua dos Navegantes, 222",Harley Davidson,180.00,,,180.00
+151,1,16,5447,2024-04-10,Ana Pereira,Remoção,"Rua das Flores, 887","Rua das Palmeiras, 44",Harley Davidson,180.00,,40.0,220.00
+152,2,18,4255,2024-04-01,Paulo Lima,Troca de Pneus,"Avenida Paulista, 132","Avenida Atlântica, 725",VW Gol,80.00,40.0,40.0,160.00
+153,1,18,7670,2024-04-01,Pedro Barbosa,Remoção,"Avenida Independência, 475","Avenida Tiradentes, 359",Ford Ka,180.00,,40.0,220.00
+154,1,20,5007,2024-04-26,Fernanda Ribeiro,Remoção,"Avenida Tiradentes, 174","Rua Dom Pedro, 774",Harley Davidson,180.00,40.0,40.0,260.00
+155,2,8,8536,2024-04-13,Lucas Rocha,Remoção,"Avenida Independência, 17","Avenida Atlântica, 817",Yamaha Fazer,180.00,40.0,,220.00
+156,1,12,3606,2024-04-19,João Silva,Troca de Pneus,"Avenida Tiradentes, 419","Rua Dom Pedro, 996",Fiat Strada,80.00,40.0,40.0,160.00
+157,3,6,9545,2024-04-20,Ana Pereira,Troca de Pneus,"Rua dos Navegantes, 230","Avenida Independência, 386",Ford Ka,80.00,40.0,,120.00
+158,1,3,6265,2024-04-20,Maria Oliveira,Troca de Pneus,"Rua Dom Pedro, 805","Rua das Palmeiras, 938",Harley Davidson,80.00,40.0,,120.00
+159,2,11,1463,2024-04-27,Juliana Costa,Carga de Bateria,"Avenida Paulista, 398","Rua das Palmeiras, 465",Jeep Renegade,80.00,40.0,40.0,160.00
+160,2,7,6535,2024-04-19,Juliana Costa,Troca de Pneus,"Avenida Atlântica, 159","Rua XV de Novembro, 926",Renault Duster,80.00,,40.0,120.00
+161,3,11,5296,2024-04-22,Pedro Barbosa,Carga de Bateria,"Avenida Tiradentes, 57","Rua Dom Pedro, 388",Renault Duster,80.00,40.0,,120.00
+162,2,4,4028,2024-04-20,Pedro Barbosa,Remoção,"Rua Dom Pedro, 848","Rua Dom Pedro, 329",Jeep Renegade,180.00,40.0,40.0,260.00
+163,2,15,8634,2024-04-25,Fernanda Ribeiro,Troca de Pneus,"Avenida Tiradentes, 942","Rua Dom Pedro, 129",Honda Civic,80.00,,,80.00
+164,1,20,1278,2024-04-20,Clara Gomes,Carga de Bateria,"Rua das Flores, 367","Avenida Atlântica, 17",Chevrolet Onix,80.00,,40.0,120.00
+165,1,9,3187,2024-04-15,Paulo Lima,Carga de Bateria,"Rua dos Navegantes, 953","Avenida Paulista, 676",Renault Duster,80.00,40.0,40.0,160.00
+166,1,8,6201,2024-04-01,Maria Oliveira,Troca de Pneus,"Rua das Palmeiras, 894","Avenida Tiradentes, 650",Chevrolet Onix,80.00,40.0,40.0,160.00
+167,1,12,9392,2024-04-21,Pedro Barbosa,Carga de Bateria,"Rua dos Navegantes, 535","Rua dos Navegantes, 873",Jeep Renegade,80.00,,,80.00
+168,1,6,8767,2024-04-14,Lucas Rocha,Troca de Pneus,"Rua Dom Pedro, 430","Avenida Independência, 857",Yamaha Fazer,80.00,40.0,40.0,160.00
+169,2,13,2642,2024-04-15,Maria Oliveira,Remoção,"Avenida Independência, 387","Avenida Atlântica, 941",Honda Civic,180.00,,40.0,220.00
+170,1,4,1784,2024-04-04,Carlos Souza,Remoção,"Avenida Tiradentes, 441","Rua das Palmeiras, 858",Honda Civic,180.00,40.0,40.0,260.00
+171,3,9,2911,2024-04-27,João Silva,Remoção,"Rua das Palmeiras, 924","Avenida Tiradentes, 757",VW Gol,180.00,40.0,40.0,260.00
+172,2,18,3353,2024-04-27,Paulo Lima,Remoção,"Avenida Independência, 610","Avenida Tiradentes, 432",Renault Duster,180.00,,40.0,220.00
+173,2,4,3437,2024-04-11,João Silva,Remoção,"Rua dos Navegantes, 848","Avenida Tiradentes, 337",Renault Duster,180.00,,40.0,220.00
+174,3,16,1438,2024-04-11,João Silva,Remoção,"Avenida Atlântica, 168","Rua Dom Pedro, 973",Ford Ka,180.00,40.0,40.0,260.00
+175,3,20,4392,2024-04-25,Fernanda Ribeiro,Carga de Bateria,"Rua das Flores, 504","Avenida Tiradentes, 529",Harley Davidson,80.00,40.0,40.0,160.00
+176,1,8,1856,2024-04-10,Carlos Souza,Remoção,"Rua das Palmeiras, 631","Rua XV de Novembro, 972",Honda Civic,180.00,,,180.00
+177,3,4,4527,2024-04-02,Carlos Souza,Carga de Bateria,"Rua Dom Pedro, 400","Avenida Tiradentes, 875",Fiat Strada,80.00,,40.0,120.00
+178,1,18,4880,2024-04-05,Pedro Barbosa,Carga de Bateria,"Avenida Paulista, 346","Avenida Tiradentes, 974",Yamaha Fazer,80.00,,40.0,120.00
+179,2,11,1170,2024-04-26,Juliana Costa,Troca de Pneus,"Avenida Independência, 483","Rua Dom Pedro, 704",Renault Duster,80.00,40.0,40.0,160.00
+180,2,20,5795,2024-04-21,Ana Pereira,Troca de Pneus,"Rua dos Navegantes, 700","Rua das Palmeiras, 342",Renault Duster,80.00,,40.0,120.00
+181,1,19,6587,2024-04-19,Juliana Costa,Troca de Pneus,"Rua dos Navegantes, 676","Avenida Atlântica, 421",Yamaha Fazer,80.00,40.0,40.0,160.00
+182,3,11,9505,2024-04-23,Paulo Lima,Carga de Bateria,"Rua XV de Novembro, 490","Rua Dom Pedro, 569",Chevrolet Onix,80.00,40.0,,120.00
+183,2,1,3742,2024-04-02,Paulo Lima,Carga de Bateria,"Avenida Atlântica, 294","Rua das Flores, 677",Fiat Strada,80.00,,40.0,120.00
+184,1,9,3054,2024-04-25,Juliana Costa,Troca de Pneus,"Rua das Palmeiras, 500","Avenida Atlântica, 78",Ford Ka,80.00,40.0,,120.00
+185,1,19,8593,2024-04-19,Paulo Lima,Carga de Bateria,"Avenida Tiradentes, 616","Rua XV de Novembro, 990",Toyota Corolla,80.00,40.0,,120.00
+186,1,15,6617,2024-04-15,Paulo Lima,Carga de Bateria,"Rua das Palmeiras, 632","Avenida Paulista, 275",Chevrolet Onix,80.00,40.0,,120.00
+187,1,17,2009,2024-04-11,Juliana Costa,Carga de Bateria,"Rua das Palmeiras, 844","Rua das Flores, 990",Toyota Corolla,80.00,40.0,,120.00
+188,2,6,3292,2024-04-09,Juliana Costa,Remoção,"Rua das Palmeiras, 599","Rua XV de Novembro, 365",Jeep Renegade,180.00,40.0,40.0,260.00
+189,1,11,2601,2024-05-13,Juliana Costa,Troca de Pneus,"Avenida Atlântica, 528","Rua Dom Pedro, 686",Honda Civic,80.00,,,80.00
+190,3,1,8061,2024-05-13,Ana Pereira,Remoção,"Rua XV de Novembro, 760","Avenida Atlântica, 979",Ford Ka,180.00,,,180.00
+191,3,1,1381,2024-05-02,Pedro Barbosa,Remoção,"Rua das Flores, 317","Rua XV de Novembro, 319",Toyota Corolla,180.00,,40.0,220.00
+192,1,3,5383,2024-05-04,Lucas Rocha,Carga de Bateria,"Rua dos Navegantes, 624","Rua Dom Pedro, 87",Honda Civic,80.00,,40.0,120.00
+193,3,4,2188,2024-05-04,João Silva,Remoção,"Avenida Paulista, 445","Avenida Independência, 807",Fiat Strada,180.00,40.0,40.0,260.00
+194,1,11,9284,2024-05-13,Maria Oliveira,Carga de Bateria,"Avenida Independência, 434","Rua das Palmeiras, 91",Toyota Corolla,80.00,40.0,40.0,160.00
+195,3,6,5339,2024-05-09,Carlos Souza,Carga de Bateria,"Avenida Paulista, 877","Rua XV de Novembro, 295",Renault Duster,80.00,,,80.00
+196,2,12,2507,2024-05-20,Maria Oliveira,Troca de Pneus,"Avenida Paulista, 993","Avenida Independência, 393",Honda Civic,80.00,,40.0,120.00
+197,1,11,2096,2024-05-23,Clara Gomes,Troca de Pneus,"Avenida Paulista, 721","Rua das Flores, 382",Ford Ka,80.00,40.0,,120.00
+198,2,17,1533,2024-05-17,Maria Oliveira,Carga de Bateria,"Avenida Tiradentes, 245","Rua XV de Novembro, 792",Jeep Renegade,80.00,40.0,,120.00
+199,2,18,5034,2024-05-28,Paulo Lima,Troca de Pneus,"Rua Dom Pedro, 774","Rua dos Navegantes, 801",Harley Davidson,80.00,,,80.00
+200,3,13,9934,2024-05-26,Carlos Souza,Remoção,"Rua dos Navegantes, 889","Rua XV de Novembro, 74",Renault Duster,180.00,40.0,,220.00
+201,2,13,8347,2024-05-10,Paulo Lima,Remoção,"Rua das Flores, 609","Rua dos Navegantes, 79",Honda Civic,180.00,40.0,,220.00
+202,2,16,5599,2024-05-26,Paulo Lima,Troca de Pneus,"Avenida Paulista, 475","Avenida Independência, 418",Harley Davidson,80.00,40.0,40.0,160.00
+203,1,19,3009,2024-05-03,Pedro Barbosa,Carga de Bateria,"Rua das Palmeiras, 100","Rua das Flores, 953",Honda Civic,80.00,40.0,,120.00
+204,1,8,1956,2024-05-06,Paulo Lima,Troca de Pneus,"Rua das Palmeiras, 489","Avenida Atlântica, 888",Renault Duster,80.00,,40.0,120.00
+205,3,7,2514,2024-05-22,Carlos Souza,Carga de Bateria,"Rua Dom Pedro, 428","Avenida Independência, 379",Honda Civic,80.00,,40.0,120.00
+206,2,13,2797,2024-05-01,Maria Oliveira,Troca de Pneus,"Rua XV de Novembro, 217","Avenida Paulista, 401",Ford Ka,80.00,,40.0,120.00
+207,1,14,6634,2024-05-07,Maria Oliveira,Troca de Pneus,"Avenida Atlântica, 855","Rua dos Navegantes, 618",Harley Davidson,80.00,40.0,,120.00
+208,3,17,2124,2024-05-15,Clara Gomes,Troca de Pneus,"Avenida Atlântica, 55","Avenida Atlântica, 21",VW Gol,80.00,,40.0,120.00
+209,1,10,6547,2024-05-14,Lucas Rocha,Remoção,"Avenida Independência, 595","Rua XV de Novembro, 679",Toyota Corolla,180.00,40.0,40.0,260.00
+210,1,8,6488,2024-05-28,Paulo Lima,Carga de Bateria,"Rua Dom Pedro, 597","Avenida Independência, 256",Harley Davidson,80.00,,40.0,120.00
+211,3,13,8877,2024-05-11,Fernanda Ribeiro,Troca de Pneus,"Rua dos Navegantes, 596","Avenida Independência, 794",Renault Duster,80.00,40.0,40.0,160.00
+212,1,10,7903,2024-05-27,Carlos Souza,Remoção,"Rua XV de Novembro, 724","Avenida Paulista, 811",VW Gol,180.00,,40.0,220.00
+213,3,5,9217,2024-05-09,Pedro Barbosa,Carga de Bateria,"Rua Dom Pedro, 956","Rua dos Navegantes, 710",Chevrolet Onix,80.00,,40.0,120.00
+214,3,14,9784,2024-05-15,Carlos Souza,Carga de Bateria,"Avenida Atlântica, 731","Rua das Flores, 165",Harley Davidson,80.00,,40.0,120.00
+215,2,15,3837,2024-05-10,Pedro Barbosa,Remoção,"Avenida Atlântica, 311","Avenida Atlântica, 179",VW Gol,180.00,40.0,40.0,260.00
+216,2,17,1414,2024-05-22,Clara Gomes,Carga de Bateria,"Rua dos Navegantes, 29","Rua dos Navegantes, 659",VW Gol,80.00,40.0,40.0,160.00
+217,2,18,6808,2024-05-28,Lucas Rocha,Troca de Pneus,"Rua das Palmeiras, 876","Avenida Independência, 553",Toyota Corolla,80.00,,40.0,120.00
+218,1,19,9033,2024-05-11,Paulo Lima,Remoção,"Avenida Independência, 329","Avenida Atlântica, 507",VW Gol,180.00,40.0,,220.00
+219,1,6,1385,2024-05-13,Ana Pereira,Troca de Pneus,"Rua XV de Novembro, 171","Avenida Tiradentes, 60",VW Gol,80.00,40.0,40.0,160.00
+220,1,15,4162,2024-05-23,Clara Gomes,Remoção,"Rua das Palmeiras, 873","Avenida Tiradentes, 982",Fiat Strada,180.00,40.0,40.0,260.00
+221,3,6,3889,2024-05-18,Carlos Souza,Carga de Bateria,"Avenida Paulista, 973","Avenida Tiradentes, 157",Ford Ka,80.00,40.0,40.0,160.00
+222,1,7,3622,2024-05-08,Clara Gomes,Troca de Pneus,"Rua Dom Pedro, 110","Avenida Independência, 913",Fiat Strada,80.00,40.0,40.0,160.00
+223,1,11,7143,2024-05-04,Paulo Lima,Carga de Bateria,"Avenida Tiradentes, 148","Avenida Atlântica, 587",Fiat Strada,80.00,40.0,40.0,160.00
+224,2,12,9597,2024-05-23,Pedro Barbosa,Carga de Bateria,"Avenida Paulista, 466","Rua Dom Pedro, 310",Toyota Corolla,80.00,,,80.00
+225,2,8,6528,2024-05-06,Ana Pereira,Troca de Pneus,"Avenida Atlântica, 662","Rua XV de Novembro, 402",Toyota Corolla,80.00,,,80.00
+226,2,12,8170,2024-05-14,Lucas Rocha,Remoção,"Rua das Palmeiras, 736","Avenida Atlântica, 522",Fiat Strada,180.00,40.0,,220.00
+227,3,6,4189,2024-05-07,João Silva,Carga de Bateria,"Rua dos Navegantes, 194","Rua Dom Pedro, 53",Ford Ka,80.00,,,80.00
+228,1,3,5703,2024-05-19,Ana Pereira,Carga de Bateria,"Avenida Atlântica, 277","Rua das Palmeiras, 771",Renault Duster,80.00,,,80.00
+229,1,2,9239,2024-05-07,João Silva,Troca de Pneus,"Rua das Palmeiras, 389","Avenida Independência, 686",Ford Ka,80.00,,40.0,120.00
+230,3,10,3859,2024-05-11,Carlos Souza,Carga de Bateria,"Avenida Atlântica, 839","Avenida Atlântica, 98",Fiat Strada,80.00,,40.0,120.00
+231,1,19,3095,2024-05-10,Pedro Barbosa,Carga de Bateria,"Avenida Atlântica, 270","Rua dos Navegantes, 56",VW Gol,80.00,40.0,40.0,160.00
+232,1,3,4436,2024-05-26,Pedro Barbosa,Carga de Bateria,"Rua das Palmeiras, 659","Avenida Tiradentes, 253",Ford Ka,80.00,40.0,40.0,160.00
+233,3,15,3739,2024-06-15,Paulo Lima,Remoção,"Rua Dom Pedro, 115","Rua das Flores, 737",Chevrolet Onix,180.00,40.0,40.0,260.00
+234,1,12,1127,2024-06-18,Juliana Costa,Carga de Bateria,"Avenida Independência, 760","Rua das Flores, 67",Ford Ka,80.00,40.0,40.0,160.00
+235,3,8,6992,2024-06-19,Lucas Rocha,Troca de Pneus,"Avenida Independência, 187","Rua das Palmeiras, 851",Harley Davidson,80.00,40.0,,120.00
+236,3,13,8705,2024-06-05,João Silva,Troca de Pneus,"Rua Dom Pedro, 283","Rua dos Navegantes, 306",Chevrolet Onix,80.00,40.0,,120.00
+237,2,3,8741,2024-06-23,Juliana Costa,Carga de Bateria,"Avenida Independência, 464","Rua XV de Novembro, 484",Jeep Renegade,80.00,,40.0,120.00
+238,2,3,7677,2024-06-09,Paulo Lima,Remoção,"Avenida Paulista, 434","Rua dos Navegantes, 119",Yamaha Fazer,180.00,40.0,40.0,260.00
+239,1,10,8941,2024-06-14,Clara Gomes,Remoção,"Rua dos Navegantes, 703","Avenida Atlântica, 112",Renault Duster,180.00,40.0,40.0,260.00
+240,3,5,3046,2024-06-05,Maria Oliveira,Remoção,"Rua XV de Novembro, 20","Avenida Tiradentes, 952",Renault Duster,180.00,,40.0,220.00
+241,2,16,1018,2024-06-12,Juliana Costa,Troca de Pneus,"Rua das Flores, 257","Rua das Flores, 369",Yamaha Fazer,80.00,40.0,,120.00
+242,3,20,5989,2024-06-04,João Silva,Troca de Pneus,"Avenida Independência, 961","Rua XV de Novembro, 594",Chevrolet Onix,80.00,40.0,,120.00
+243,3,10,7084,2024-06-19,Ana Pereira,Carga de Bateria,"Avenida Paulista, 270","Rua das Palmeiras, 582",Chevrolet Onix,80.00,40.0,,120.00
+244,3,15,6173,2024-06-25,Fernanda Ribeiro,Carga de Bateria,"Rua XV de Novembro, 921","Avenida Paulista, 399",Chevrolet Onix,80.00,40.0,,120.00
+245,3,10,4934,2024-06-08,Ana Pereira,Troca de Pneus,"Avenida Independência, 860","Rua XV de Novembro, 544",Yamaha Fazer,80.00,40.0,40.0,160.00
+246,2,6,3845,2024-06-18,Lucas Rocha,Troca de Pneus,"Avenida Paulista, 999","Rua dos Navegantes, 75",Yamaha Fazer,80.00,,40.0,120.00
+247,3,1,9311,2024-06-28,Clara Gomes,Troca de Pneus,"Rua XV de Novembro, 441","Rua dos Navegantes, 201",Chevrolet Onix,80.00,40.0,40.0,160.00
+248,2,18,7759,2024-06-02,Fernanda Ribeiro,Troca de Pneus,"Rua das Palmeiras, 207","Rua das Palmeiras, 802",VW Gol,80.00,,40.0,120.00
+249,2,15,6735,2024-06-04,João Silva,Troca de Pneus,"Rua das Palmeiras, 28","Rua Dom Pedro, 853",Yamaha Fazer,80.00,,40.0,120.00
+250,2,15,9522,2024-06-21,Pedro Barbosa,Remoção,"Rua das Palmeiras, 666","Rua XV de Novembro, 421",Harley Davidson,180.00,,,180.00
+251,1,1,6523,2024-06-04,Pedro Barbosa,Troca de Pneus,"Avenida Independência, 883","Rua XV de Novembro, 329",Jeep Renegade,80.00,,,80.00
+252,3,1,3087,2024-06-19,Pedro Barbosa,Remoção,"Avenida Paulista, 383","Rua das Palmeiras, 274",Fiat Strada,180.00,,40.0,220.00
+253,1,8,9213,2024-06-27,Maria Oliveira,Remoção,"Avenida Independência, 461","Avenida Independência, 754",Fiat Strada,180.00,,40.0,220.00
+254,3,6,3418,2024-06-26,Fernanda Ribeiro,Carga de Bateria,"Rua Dom Pedro, 10","Avenida Atlântica, 213",Yamaha Fazer,80.00,40.0,40.0,160.00
+255,3,3,2826,2024-06-08,Juliana Costa,Carga de Bateria,"Rua Dom Pedro, 50","Avenida Atlântica, 500",Fiat Strada,80.00,40.0,,120.00
+256,1,19,6526,2024-06-13,Ana Pereira,Remoção,"Avenida Atlântica, 908","Rua das Flores, 180",VW Gol,180.00,40.0,,220.00
+257,1,18,2611,2024-06-24,Juliana Costa,Remoção,"Rua XV de Novembro, 656","Avenida Tiradentes, 135",VW Gol,180.00,,,180.00
+258,1,7,3137,2024-06-03,Pedro Barbosa,Carga de Bateria,"Avenida Independência, 409","Rua Dom Pedro, 923",Ford Ka,80.00,,,80.00
+259,3,3,5082,2024-06-21,Paulo Lima,Carga de Bateria,"Rua XV de Novembro, 942","Avenida Paulista, 478",Yamaha Fazer,80.00,,,80.00
+260,1,5,2096,2024-06-15,Paulo Lima,Remoção,"Rua Dom Pedro, 563","Rua das Palmeiras, 132",VW Gol,180.00,,40.0,220.00
+261,3,11,2813,2024-06-13,Pedro Barbosa,Remoção,"Avenida Tiradentes, 851","Rua das Flores, 419",Toyota Corolla,180.00,40.0,40.0,260.00
+262,3,11,6576,2024-06-13,Juliana Costa,Troca de Pneus,"Avenida Independência, 491","Avenida Independência, 543",Yamaha Fazer,80.00,,,80.00
+263,2,8,6256,2024-06-18,Pedro Barbosa,Troca de Pneus,"Avenida Paulista, 657","Avenida Atlântica, 241",Jeep Renegade,80.00,40.0,40.0,160.00
+264,3,15,4612,2024-06-17,Fernanda Ribeiro,Carga de Bateria,"Avenida Paulista, 189","Avenida Paulista, 504",Harley Davidson,80.00,,,80.00
+265,3,9,8103,2024-06-11,Ana Pereira,Remoção,"Avenida Paulista, 567","Rua das Palmeiras, 301",Chevrolet Onix,180.00,,40.0,220.00
+266,1,14,1561,2024-06-27,João Silva,Remoção,"Avenida Atlântica, 277","Rua das Flores, 133",Harley Davidson,180.00,,40.0,220.00
+267,1,5,7808,2024-06-10,Lucas Rocha,Troca de Pneus,"Avenida Independência, 691","Rua dos Navegantes, 388",VW Gol,80.00,,40.0,120.00
+268,3,8,7766,2024-06-16,Ana Pereira,Carga de Bateria,"Rua XV de Novembro, 691","Avenida Paulista, 748",Ford Ka,80.00,40.0,40.0,160.00
+269,2,5,9445,2024-06-27,Clara Gomes,Carga de Bateria,"Rua das Palmeiras, 904","Avenida Tiradentes, 339",Chevrolet Onix,80.00,,40.0,120.00
+270,2,16,6897,2024-06-20,Carlos Souza,Troca de Pneus,"Rua das Palmeiras, 365","Rua dos Navegantes, 264",Harley Davidson,80.00,40.0,40.0,160.00
+271,1,3,6543,2024-06-08,Carlos Souza,Troca de Pneus,"Avenida Tiradentes, 593","Rua dos Navegantes, 192",Ford Ka,80.00,40.0,40.0,160.00
+272,3,4,8792,2024-06-05,Pedro Barbosa,Carga de Bateria,"Rua dos Navegantes, 290","Rua das Flores, 675",Fiat Strada,80.00,40.0,,120.00
+273,1,3,5964,2024-06-25,Pedro Barbosa,Troca de Pneus,"Rua XV de Novembro, 977","Rua das Flores, 497",Toyota Corolla,80.00,40.0,,120.00
+274,2,2,3070,2024-06-13,Clara Gomes,Carga de Bateria,"Rua das Flores, 39","Avenida Atlântica, 838",Fiat Strada,80.00,,40.0,120.00
+275,3,4,7018,2024-06-24,Ana Pereira,Troca de Pneus,"Avenida Independência, 412","Avenida Independência, 402",Renault Duster,80.00,,40.0,120.00
+276,3,2,9118,2024-06-23,Juliana Costa,Remoção,"Avenida Paulista, 923","Avenida Atlântica, 39",Toyota Corolla,180.00,,,180.00
+277,3,11,9943,2024-06-05,Ana Pereira,Troca de Pneus,"Avenida Tiradentes, 904","Rua dos Navegantes, 676",Fiat Strada,80.00,40.0,,120.00
+278,3,8,6088,2024-06-01,Clara Gomes,Carga de Bateria,"Rua Dom Pedro, 778","Rua dos Navegantes, 961",Yamaha Fazer,80.00,,,80.00
+279,2,20,2962,2024-06-19,Lucas Rocha,Troca de Pneus,"Rua das Palmeiras, 722","Rua dos Navegantes, 843",Honda Civic,80.00,40.0,40.0,160.00
+280,3,4,3796,2024-06-10,Maria Oliveira,Remoção,"Avenida Paulista, 200","Rua das Palmeiras, 285",Ford Ka,180.00,,,180.00
+281,1,17,5654,2024-06-13,Ana Pereira,Carga de Bateria,"Avenida Atlântica, 665","Rua das Flores, 971",VW Gol,80.00,,,80.00
+282,2,12,2684,2024-06-24,Ana Pereira,Carga de Bateria,"Rua XV de Novembro, 947","Rua das Palmeiras, 897",Fiat Strada,80.00,40.0,40.0,160.00
+283,2,11,3242,2024-07-05,Lucas Rocha,Remoção,"Rua dos Navegantes, 60","Avenida Atlântica, 511",Harley Davidson,180.00,,40.0,220.00
+284,3,19,7276,2024-07-28,João Silva,Carga de Bateria,"Rua XV de Novembro, 942","Rua dos Navegantes, 816",Yamaha Fazer,80.00,,40.0,120.00
+285,3,9,9234,2024-07-13,Ana Pereira,Troca de Pneus,"Rua Dom Pedro, 32","Rua das Palmeiras, 589",Toyota Corolla,80.00,40.0,,120.00
+286,1,17,3035,2024-07-24,Fernanda Ribeiro,Remoção,"Rua XV de Novembro, 668","Rua das Palmeiras, 980",Harley Davidson,180.00,40.0,,220.00
+287,3,14,7422,2024-07-03,Lucas Rocha,Troca de Pneus,"Rua Dom Pedro, 523","Rua dos Navegantes, 612",Ford Ka,80.00,40.0,,120.00
+288,2,19,3440,2024-07-17,Clara Gomes,Troca de Pneus,"Rua Dom Pedro, 509","Rua XV de Novembro, 381",Chevrolet Onix,80.00,,40.0,120.00
+289,2,7,7590,2024-07-24,Ana Pereira,Remoção,"Rua das Palmeiras, 767","Rua Dom Pedro, 186",Chevrolet Onix,180.00,,40.0,220.00
+290,1,11,3419,2024-07-20,Juliana Costa,Carga de Bateria,"Rua dos Navegantes, 234","Avenida Paulista, 535",VW Gol,80.00,,,80.00
+291,1,9,2276,2024-07-22,Ana Pereira,Carga de Bateria,"Avenida Independência, 846","Rua das Palmeiras, 174",Harley Davidson,80.00,40.0,,120.00
+292,2,15,7502,2024-07-11,Fernanda Ribeiro,Carga de Bateria,"Rua das Flores, 834","Rua dos Navegantes, 485",Renault Duster,80.00,40.0,,120.00
+293,2,5,6364,2024-07-18,Fernanda Ribeiro,Remoção,"Avenida Atlântica, 911","Avenida Atlântica, 988",Toyota Corolla,180.00,40.0,,220.00
+294,3,12,5897,2024-07-20,Lucas Rocha,Remoção,"Rua Dom Pedro, 77","Avenida Tiradentes, 524",Renault Duster,180.00,,,180.00
+295,1,7,4079,2024-07-22,Juliana Costa,Troca de Pneus,"Avenida Paulista, 374","Avenida Atlântica, 971",Chevrolet Onix,80.00,40.0,,120.00
+296,1,7,6541,2024-07-25,Clara Gomes,Carga de Bateria,"Rua das Flores, 698","Rua das Flores, 149",Honda Civic,80.00,,,80.00
+297,2,20,4605,2024-07-03,Lucas Rocha,Remoção,"Avenida Independência, 722","Avenida Paulista, 355",Chevrolet Onix,180.00,40.0,40.0,260.00
+298,3,16,9142,2024-07-19,Pedro Barbosa,Remoção,"Rua dos Navegantes, 509","Avenida Independência, 489",Ford Ka,180.00,40.0,,220.00
+299,2,20,3001,2024-07-05,João Silva,Carga de Bateria,"Avenida Paulista, 599","Rua dos Navegantes, 778",Toyota Corolla,80.00,40.0,,120.00
+300,1,15,4019,2024-07-18,Clara Gomes,Carga de Bateria,"Rua Dom Pedro, 840","Rua XV de Novembro, 619",Fiat Strada,80.00,40.0,,120.00
+301,3,15,7171,2024-07-22,Lucas Rocha,Remoção,"Rua das Flores, 667","Avenida Paulista, 428",Toyota Corolla,180.00,,40.0,220.00
+302,2,6,2287,2024-07-27,Ana Pereira,Carga de Bateria,"Rua dos Navegantes, 497","Avenida Tiradentes, 796",Fiat Strada,80.00,,40.0,120.00
+303,3,7,4660,2024-07-25,Pedro Barbosa,Carga de Bateria,"Rua Dom Pedro, 318","Rua das Flores, 28",Yamaha Fazer,80.00,40.0,,120.00
+304,3,15,8533,2024-07-07,João Silva,Troca de Pneus,"Rua dos Navegantes, 494","Rua das Palmeiras, 911",Ford Ka,80.00,40.0,,120.00
+305,1,5,6339,2024-07-22,Clara Gomes,Carga de Bateria,"Avenida Paulista, 751","Rua Dom Pedro, 955",Chevrolet Onix,80.00,40.0,40.0,160.00
+306,3,12,3830,2024-07-11,Juliana Costa,Carga de Bateria,"Rua das Palmeiras, 980","Rua das Palmeiras, 993",Honda Civic,80.00,,40.0,120.00
+307,2,8,6910,2024-07-14,Paulo Lima,Remoção,"Rua XV de Novembro, 682","Avenida Tiradentes, 257",Harley Davidson,180.00,40.0,,220.00
+308,3,9,1766,2024-07-07,João Silva,Carga de Bateria,"Rua XV de Novembro, 286","Avenida Tiradentes, 380",Ford Ka,80.00,40.0,40.0,160.00
+309,2,19,5892,2024-07-08,Paulo Lima,Troca de Pneus,"Avenida Atlântica, 520","Rua XV de Novembro, 746",Yamaha Fazer,80.00,,40.0,120.00
+310,3,11,7376,2024-07-22,Maria Oliveira,Carga de Bateria,"Avenida Paulista, 785","Rua XV de Novembro, 324",Ford Ka,80.00,40.0,,120.00
+311,3,11,4753,2024-07-23,Lucas Rocha,Carga de Bateria,"Avenida Independência, 636","Avenida Independência, 742",Ford Ka,80.00,40.0,,120.00
+312,3,16,2139,2024-07-27,Lucas Rocha,Remoção,"Rua Dom Pedro, 857","Rua das Flores, 247",Renault Duster,180.00,,40.0,220.00
+313,2,7,7461,2024-07-18,Clara Gomes,Carga de Bateria,"Rua Dom Pedro, 370","Rua XV de Novembro, 440",Toyota Corolla,80.00,,40.0,120.00
+314,3,3,4721,2024-07-23,João Silva,Troca de Pneus,"Rua XV de Novembro, 934","Avenida Atlântica, 156",Jeep Renegade,80.00,40.0,,120.00
+315,3,3,2484,2024-07-07,Clara Gomes,Troca de Pneus,"Rua das Palmeiras, 734","Rua XV de Novembro, 316",Toyota Corolla,80.00,,40.0,120.00
+316,1,5,5706,2024-07-04,Pedro Barbosa,Remoção,"Rua das Flores, 529","Avenida Tiradentes, 944",Renault Duster,180.00,,,180.00
+317,3,15,6680,2024-07-14,Maria Oliveira,Troca de Pneus,"Rua das Palmeiras, 543","Rua das Flores, 693",Chevrolet Onix,80.00,,40.0,120.00
+318,3,1,5786,2024-07-05,Maria Oliveira,Troca de Pneus,"Rua XV de Novembro, 387","Avenida Atlântica, 462",Honda Civic,80.00,40.0,40.0,160.00
+319,1,18,8601,2024-07-06,Carlos Souza,Troca de Pneus,"Avenida Independência, 526","Rua Dom Pedro, 456",Harley Davidson,80.00,40.0,,120.00
+320,1,13,8843,2024-07-24,Lucas Rocha,Troca de Pneus,"Rua Dom Pedro, 702","Avenida Paulista, 616",Jeep Renegade,80.00,,40.0,120.00
+321,1,4,9049,2024-07-13,João Silva,Troca de Pneus,"Rua das Palmeiras, 788","Avenida Independência, 237",Fiat Strada,80.00,,40.0,120.00
+322,2,10,6442,2024-07-14,Clara Gomes,Carga de Bateria,"Avenida Tiradentes, 539","Avenida Tiradentes, 652",Toyota Corolla,80.00,,40.0,120.00
+323,1,3,6690,2024-07-08,Juliana Costa,Remoção,"Rua XV de Novembro, 403","Rua XV de Novembro, 72",Ford Ka,180.00,,,180.00
+324,3,18,2865,2024-07-19,Carlos Souza,Remoção,"Rua dos Navegantes, 427","Avenida Tiradentes, 551",VW Gol,180.00,,,180.00
+325,1,1,9785,2024-07-04,Ana Pereira,Remoção,"Rua dos Navegantes, 815","Rua das Flores, 57",Toyota Corolla,180.00,,40.0,220.00
+326,3,20,1922,2024-07-06,Paulo Lima,Remoção,"Rua das Palmeiras, 194","Rua das Palmeiras, 646",Jeep Renegade,180.00,40.0,,220.00
+327,2,1,8429,2024-07-26,Carlos Souza,Carga de Bateria,"Rua XV de Novembro, 176","Rua das Flores, 982",VW Gol,80.00,40.0,,120.00
+328,3,5,2795,2024-07-13,Fernanda Ribeiro,Troca de Pneus,"Rua Dom Pedro, 669","Avenida Independência, 975",Toyota Corolla,80.00,,,80.00
+329,1,18,2854,2024-07-20,Maria Oliveira,Troca de Pneus,"Avenida Tiradentes, 120","Avenida Atlântica, 400",Honda Civic,80.00,40.0,40.0,160.00
+330,2,5,3929,2024-07-27,Juliana Costa,Troca de Pneus,"Avenida Atlântica, 614","Rua das Palmeiras, 553",Jeep Renegade,80.00,40.0,40.0,160.00
+331,3,17,8284,2024-07-05,Juliana Costa,Troca de Pneus,"Avenida Atlântica, 539","Avenida Independência, 489",Toyota Corolla,80.00,40.0,,120.00
+332,2,3,8355,2024-07-09,Fernanda Ribeiro,Remoção,"Rua XV de Novembro, 131","Rua Dom Pedro, 628",Renault Duster,180.00,,40.0,220.00
+333,2,10,8501,2024-08-22,Maria Oliveira,Carga de Bateria,"Avenida Atlântica, 862","Rua dos Navegantes, 446",Yamaha Fazer,80.00,40.0,,120.00
+334,1,14,8343,2024-08-24,Paulo Lima,Troca de Pneus,"Avenida Paulista, 490","Rua XV de Novembro, 967",Chevrolet Onix,80.00,40.0,,120.00
+335,2,18,1224,2024-08-09,Carlos Souza,Troca de Pneus,"Avenida Atlântica, 381","Rua das Palmeiras, 550",Ford Ka,80.00,,,80.00
+336,2,3,6854,2024-08-17,Pedro Barbosa,Troca de Pneus,"Rua Dom Pedro, 493","Avenida Paulista, 627",Yamaha Fazer,80.00,40.0,40.0,160.00
+337,3,10,3115,2024-08-22,João Silva,Remoção,"Avenida Paulista, 88","Avenida Independência, 798",Jeep Renegade,180.00,40.0,40.0,260.00
+338,2,14,8586,2024-08-08,Clara Gomes,Troca de Pneus,"Avenida Tiradentes, 600","Avenida Tiradentes, 95",Harley Davidson,80.00,40.0,40.0,160.00
+339,3,13,8381,2024-08-13,Paulo Lima,Remoção,"Rua das Palmeiras, 31","Rua XV de Novembro, 902",Jeep Renegade,180.00,,40.0,220.00
+340,3,5,2404,2024-08-18,João Silva,Carga de Bateria,"Rua das Flores, 728","Avenida Tiradentes, 598",Fiat Strada,80.00,40.0,,120.00
+341,3,14,9775,2024-08-05,Clara Gomes,Troca de Pneus,"Rua das Palmeiras, 42","Avenida Tiradentes, 826",Chevrolet Onix,80.00,,,80.00
+342,3,11,5601,2024-08-02,Fernanda Ribeiro,Remoção,"Rua dos Navegantes, 612","Rua Dom Pedro, 856",Chevrolet Onix,180.00,,40.0,220.00
+343,3,18,1287,2024-08-17,Clara Gomes,Remoção,"Rua dos Navegantes, 276","Rua das Palmeiras, 48",Fiat Strada,180.00,,,180.00
+344,2,6,3453,2024-08-27,Juliana Costa,Carga de Bateria,"Rua Dom Pedro, 283","Rua XV de Novembro, 533",Honda Civic,80.00,,40.0,120.00
+345,1,19,9250,2024-08-23,João Silva,Troca de Pneus,"Avenida Paulista, 215","Rua XV de Novembro, 195",Fiat Strada,80.00,40.0,,120.00
+346,2,20,4520,2024-08-20,Juliana Costa,Carga de Bateria,"Avenida Tiradentes, 144","Rua XV de Novembro, 434",Chevrolet Onix,80.00,,,80.00
+347,3,6,3823,2024-08-11,Juliana Costa,Carga de Bateria,"Avenida Tiradentes, 287","Avenida Independência, 945",Honda Civic,80.00,40.0,,120.00
+348,1,15,3509,2024-08-01,Clara Gomes,Remoção,"Avenida Paulista, 701","Rua XV de Novembro, 746",Harley Davidson,180.00,,,180.00
+349,1,13,6539,2024-08-01,João Silva,Remoção,"Rua dos Navegantes, 82","Avenida Paulista, 842",Jeep Renegade,180.00,,,180.00
+350,2,20,9599,2024-08-18,Carlos Souza,Remoção,"Rua das Flores, 911","Avenida Atlântica, 180",Jeep Renegade,180.00,40.0,,220.00
+351,2,9,3112,2024-08-02,Paulo Lima,Troca de Pneus,"Rua Dom Pedro, 349","Avenida Independência, 329",Fiat Strada,80.00,,40.0,120.00
+352,3,12,2618,2024-08-02,João Silva,Remoção,"Rua XV de Novembro, 608","Avenida Tiradentes, 15",Renault Duster,180.00,40.0,,220.00
+353,3,13,2291,2024-08-22,João Silva,Carga de Bateria,"Avenida Tiradentes, 470","Rua das Palmeiras, 364",Chevrolet Onix,80.00,40.0,40.0,160.00
+354,2,14,9382,2024-08-08,Juliana Costa,Remoção,"Rua Dom Pedro, 887","Rua das Palmeiras, 645",Harley Davidson,180.00,,,180.00
+355,3,18,4588,2024-08-16,Clara Gomes,Troca de Pneus,"Rua das Flores, 925","Rua XV de Novembro, 583",Yamaha Fazer,80.00,,,80.00
+356,1,11,3564,2024-08-07,Fernanda Ribeiro,Troca de Pneus,"Rua XV de Novembro, 176","Avenida Tiradentes, 410",Honda Civic,80.00,,40.0,120.00
+357,1,18,9316,2024-08-17,Clara Gomes,Troca de Pneus,"Rua XV de Novembro, 681","Rua dos Navegantes, 604",Harley Davidson,80.00,,40.0,120.00
+358,2,4,6394,2024-08-24,Clara Gomes,Carga de Bateria,"Rua XV de Novembro, 488","Avenida Atlântica, 438",Harley Davidson,80.00,,,80.00
+359,2,4,2301,2024-08-09,Carlos Souza,Troca de Pneus,"Avenida Tiradentes, 31","Rua das Palmeiras, 737",Jeep Renegade,80.00,,40.0,120.00
+360,1,18,5411,2024-08-22,Fernanda Ribeiro,Troca de Pneus,"Avenida Paulista, 165","Avenida Tiradentes, 681",Jeep Renegade,80.00,,40.0,120.00
+361,2,3,7097,2024-08-24,Paulo Lima,Carga de Bateria,"Rua dos Navegantes, 347","Rua XV de Novembro, 77",Toyota Corolla,80.00,40.0,,120.00
+362,2,20,9342,2024-08-18,Fernanda Ribeiro,Carga de Bateria,"Avenida Independência, 279","Avenida Atlântica, 779",Toyota Corolla,80.00,40.0,,120.00
+363,2,7,5440,2024-08-08,Fernanda Ribeiro,Carga de Bateria,"Rua das Flores, 767","Rua das Palmeiras, 508",Renault Duster,80.00,40.0,40.0,160.00
+364,3,12,7222,2024-08-06,Maria Oliveira,Carga de Bateria,"Rua Dom Pedro, 467","Rua das Flores, 109",Renault Duster,80.00,,,80.00
+365,1,11,6774,2024-08-21,Carlos Souza,Remoção,"Avenida Independência, 180","Rua Dom Pedro, 109",Ford Ka,180.00,40.0,,220.00
+366,3,12,2341,2024-08-20,Lucas Rocha,Remoção,"Avenida Atlântica, 300","Rua Dom Pedro, 853",Toyota Corolla,180.00,,40.0,220.00
+367,2,19,2857,2024-08-19,Ana Pereira,Troca de Pneus,"Rua das Palmeiras, 747","Rua Dom Pedro, 475",Harley Davidson,80.00,40.0,,120.00
+368,2,13,8692,2024-08-05,Pedro Barbosa,Troca de Pneus,"Rua das Palmeiras, 931","Rua das Flores, 290",Yamaha Fazer,80.00,40.0,40.0,160.00
+369,2,11,8018,2024-08-26,Juliana Costa,Troca de Pneus,"Rua XV de Novembro, 873","Rua dos Navegantes, 458",VW Gol,80.00,40.0,,120.00
+370,1,12,5259,2024-08-14,Pedro Barbosa,Carga de Bateria,"Avenida Paulista, 851","Rua XV de Novembro, 52",Ford Ka,80.00,40.0,40.0,160.00
+371,2,13,6143,2024-08-11,Ana Pereira,Carga de Bateria,"Rua das Palmeiras, 711","Avenida Atlântica, 318",Fiat Strada,80.00,40.0,,120.00
+372,1,7,2588,2024-08-19,Clara Gomes,Remoção,"Rua das Flores, 211","Avenida Independência, 764",Yamaha Fazer,180.00,,,180.00
+373,1,18,9672,2024-08-07,Ana Pereira,Troca de Pneus,"Rua Dom Pedro, 74","Rua dos Navegantes, 240",Toyota Corolla,80.00,,40.0,120.00
+374,3,18,8158,2024-09-20,Ana Pereira,Carga de Bateria,"Rua das Palmeiras, 279","Rua dos Navegantes, 434",Harley Davidson,80.00,40.0,,120.00
+375,2,8,4269,2024-09-13,João Silva,Troca de Pneus,"Avenida Atlântica, 980","Avenida Paulista, 26",Toyota Corolla,80.00,,40.0,120.00
+376,1,5,8421,2024-09-12,Paulo Lima,Carga de Bateria,"Rua XV de Novembro, 146","Avenida Independência, 996",Renault Duster,80.00,,,80.00
+377,2,3,7366,2024-09-19,Ana Pereira,Remoção,"Rua das Palmeiras, 386","Rua das Palmeiras, 217",Toyota Corolla,180.00,,40.0,220.00
+378,1,12,2130,2024-09-14,Juliana Costa,Troca de Pneus,"Avenida Paulista, 834","Rua XV de Novembro, 764",Harley Davidson,80.00,40.0,,120.00
+379,1,15,9683,2024-09-21,Fernanda Ribeiro,Troca de Pneus,"Rua dos Navegantes, 362","Rua Dom Pedro, 61",Toyota Corolla,80.00,40.0,,120.00
+380,1,11,1802,2024-09-22,Carlos Souza,Remoção,"Avenida Independência, 317","Rua XV de Novembro, 672",Ford Ka,180.00,,,180.00
+381,2,12,6923,2024-09-28,Juliana Costa,Remoção,"Rua XV de Novembro, 621","Rua das Palmeiras, 208",Toyota Corolla,180.00,40.0,,220.00
+382,3,13,9212,2024-09-04,Paulo Lima,Carga de Bateria,"Rua XV de Novembro, 312","Avenida Atlântica, 117",Toyota Corolla,80.00,,,80.00
+383,1,16,7929,2024-09-20,Fernanda Ribeiro,Remoção,"Avenida Independência, 227","Rua das Flores, 723",Jeep Renegade,180.00,40.0,,220.00
+384,2,5,2358,2024-09-08,Juliana Costa,Remoção,"Avenida Independência, 142","Avenida Paulista, 136",Fiat Strada,180.00,40.0,40.0,260.00
+385,1,10,9099,2024-09-27,João Silva,Carga de Bateria,"Rua Dom Pedro, 654","Avenida Tiradentes, 435",Ford Ka,80.00,,40.0,120.00
+386,2,2,1048,2024-09-18,Ana Pereira,Carga de Bateria,"Avenida Atlântica, 902","Rua Dom Pedro, 306",Fiat Strada,80.00,,,80.00
+387,1,12,4081,2024-09-18,Clara Gomes,Troca de Pneus,"Rua XV de Novembro, 248","Rua das Palmeiras, 398",Jeep Renegade,80.00,,,80.00
+388,1,6,3294,2024-09-07,Clara Gomes,Troca de Pneus,"Avenida Atlântica, 462","Rua das Palmeiras, 593",Ford Ka,80.00,40.0,40.0,160.00
+389,2,7,5365,2024-09-26,Ana Pereira,Carga de Bateria,"Rua das Palmeiras, 98","Avenida Atlântica, 616",Fiat Strada,80.00,,,80.00
+390,3,14,7773,2024-09-12,João Silva,Remoção,"Rua Dom Pedro, 270","Rua Dom Pedro, 985",Chevrolet Onix,180.00,,,180.00
+391,1,7,2078,2024-09-26,Pedro Barbosa,Troca de Pneus,"Rua dos Navegantes, 52","Rua das Flores, 179",Ford Ka,80.00,40.0,40.0,160.00
+392,1,3,7851,2024-09-08,Paulo Lima,Remoção,"Rua das Flores, 786","Rua XV de Novembro, 274",Yamaha Fazer,180.00,40.0,,220.00
+393,2,15,3204,2024-09-11,Lucas Rocha,Carga de Bateria,"Avenida Atlântica, 388","Avenida Tiradentes, 324",Jeep Renegade,80.00,,,80.00
+394,2,9,8646,2024-09-20,Paulo Lima,Troca de Pneus,"Avenida Independência, 932","Avenida Tiradentes, 272",Chevrolet Onix,80.00,,40.0,120.00
+395,2,16,6985,2024-09-10,João Silva,Carga de Bateria,"Rua das Palmeiras, 955","Avenida Atlântica, 597",VW Gol,80.00,40.0,,120.00
+396,3,10,1777,2024-09-19,Juliana Costa,Troca de Pneus,"Avenida Independência, 579","Rua Dom Pedro, 724",Jeep Renegade,80.00,40.0,40.0,160.00
+397,2,6,4492,2024-09-20,Paulo Lima,Remoção,"Avenida Independência, 853","Avenida Tiradentes, 244",Renault Duster,180.00,,40.0,220.00
+398,3,3,5168,2024-09-25,Lucas Rocha,Troca de Pneus,"Rua Dom Pedro, 241","Avenida Atlântica, 929",Toyota Corolla,80.00,,,80.00
+399,1,7,8728,2024-09-12,Fernanda Ribeiro,Troca de Pneus,"Rua dos Navegantes, 154","Rua XV de Novembro, 617",Renault Duster,80.00,,,80.00
+400,2,5,6120,2024-09-22,Clara Gomes,Troca de Pneus,"Rua das Flores, 514","Avenida Atlântica, 695",Honda Civic,80.00,,,80.00
+401,2,2,1545,2024-09-14,Maria Oliveira,Remoção,"Rua das Flores, 30","Avenida Paulista, 292",Chevrolet Onix,180.00,,40.0,220.00
+402,3,16,4922,2024-09-18,João Silva,Remoção,"Avenida Atlântica, 578","Rua das Palmeiras, 355",Jeep Renegade,180.00,,40.0,220.00
+403,3,20,6858,2024-09-23,Juliana Costa,Troca de Pneus,"Rua das Palmeiras, 967","Rua dos Navegantes, 274",Ford Ka,80.00,40.0,,120.00
+404,2,5,5749,2024-09-07,Clara Gomes,Remoção,"Avenida Paulista, 908","Rua das Palmeiras, 781",Ford Ka,180.00,,40.0,220.00
+405,3,5,8873,2024-09-25,Pedro Barbosa,Carga de Bateria,"Rua XV de Novembro, 602","Rua Dom Pedro, 453",Fiat Strada,80.00,,40.0,120.00
+406,3,5,7124,2024-09-25,Maria Oliveira,Troca de Pneus,"Avenida Independência, 233","Rua dos Navegantes, 803",VW Gol,80.00,40.0,,120.00
+407,1,15,5654,2024-09-14,Pedro Barbosa,Troca de Pneus,"Avenida Atlântica, 536","Avenida Paulista, 582",Honda Civic,80.00,40.0,,120.00
+408,2,19,1605,2024-09-13,Carlos Souza,Troca de Pneus,"Avenida Paulista, 515","Rua das Palmeiras, 604",Fiat Strada,80.00,40.0,40.0,160.00
+409,2,19,2259,2024-09-26,Clara Gomes,Troca de Pneus,"Avenida Paulista, 101","Rua Dom Pedro, 911",Toyota Corolla,80.00,,,80.00
+410,2,11,6515,2024-09-26,Lucas Rocha,Carga de Bateria,"Rua das Palmeiras, 524","Avenida Independência, 916",Renault Duster,80.00,40.0,,120.00
+411,1,8,3722,2024-09-28,Lucas Rocha,Remoção,"Rua Dom Pedro, 469","Rua XV de Novembro, 925",Fiat Strada,180.00,,,180.00
+412,2,9,5579,2024-09-17,Paulo Lima,Carga de Bateria,"Avenida Tiradentes, 214","Rua XV de Novembro, 16",Harley Davidson,80.00,,40.0,120.00
+413,3,15,9149,2024-09-24,Carlos Souza,Troca de Pneus,"Avenida Tiradentes, 961","Rua das Flores, 145",Ford Ka,80.00,,,80.00
+414,3,12,7826,2024-09-26,Lucas Rocha,Troca de Pneus,"Avenida Independência, 315","Rua das Palmeiras, 997",Chevrolet Onix,80.00,40.0,,120.00
+415,3,17,5187,2024-09-08,Ana Pereira,Remoção,"Rua das Flores, 640","Avenida Paulista, 420",Fiat Strada,180.00,,,180.00
+416,2,16,8273,2024-09-24,Pedro Barbosa,Carga de Bateria,"Rua das Flores, 293","Avenida Paulista, 872",Harley Davidson,80.00,,,80.00
+417,1,12,9152,2024-09-16,Carlos Souza,Remoção,"Avenida Independência, 979","Avenida Paulista, 213",Toyota Corolla,180.00,40.0,40.0,260.00
+418,2,6,8949,2024-09-04,Carlos Souza,Troca de Pneus,"Rua dos Navegantes, 778","Avenida Independência, 364",Ford Ka,80.00,40.0,40.0,160.00
+419,2,5,6572,2024-09-27,Pedro Barbosa,Remoção,"Rua das Flores, 912","Rua Dom Pedro, 401",Honda Civic,180.00,40.0,,220.00
+420,3,9,3184,2024-09-09,Fernanda Ribeiro,Carga de Bateria,"Avenida Independência, 543","Avenida Tiradentes, 434",Jeep Renegade,80.00,,,80.00
+421,3,14,4353,2024-09-04,Carlos Souza,Troca de Pneus,"Avenida Atlântica, 257","Rua das Palmeiras, 884",Chevrolet Onix,80.00,,,80.00
+422,2,19,7596,2024-09-19,Lucas Rocha,Troca de Pneus,"Rua XV de Novembro, 229","Avenida Paulista, 576",Honda Civic,80.00,40.0,,120.00
+423,3,2,6352,2024-09-21,Fernanda Ribeiro,Carga de Bateria,"Avenida Atlântica, 150","Avenida Paulista, 159",Fiat Strada,80.00,40.0,,120.00
+424,2,8,3770,2024-09-03,Maria Oliveira,Remoção,"Rua das Palmeiras, 37","Avenida Independência, 306",Ford Ka,180.00,40.0,,220.00
+425,1,1,6629,2024-09-07,Fernanda Ribeiro,Carga de Bateria,"Rua das Palmeiras, 28","Avenida Independência, 120",Ford Ka,80.00,40.0,40.0,160.00
+426,3,14,9805,2024-09-07,Juliana Costa,Troca de Pneus,"Avenida Independência, 601","Rua Dom Pedro, 359",Toyota Corolla,80.00,,40.0,120.00
+427,3,16,7496,2024-09-28,Paulo Lima,Remoção,"Rua das Flores, 228","Rua Dom Pedro, 514",Renault Duster,180.00,40.0,,220.00
+428,3,18,3917,2024-09-04,Paulo Lima,Remoção,"Avenida Atlântica, 49","Rua dos Navegantes, 381",Jeep Renegade,180.00,40.0,,220.00
+429,1,11,7337,2024-09-05,Clara Gomes,Troca de Pneus,"Rua das Flores, 709","Avenida Paulista, 934",VW Gol,80.00,,40.0,120.00
+430,2,14,6430,2024-09-05,Paulo Lima,Remoção,"Avenida Atlântica, 560","Rua das Flores, 250",VW Gol,180.00,,,180.00
+431,2,10,7140,2024-09-27,João Silva,Carga de Bateria,"Avenida Paulista, 494","Rua das Flores, 648",Yamaha Fazer,80.00,40.0,40.0,160.00
+432,2,8,5934,2024-09-23,Paulo Lima,Carga de Bateria,"Avenida Paulista, 112","Avenida Paulista, 220",Chevrolet Onix,80.00,,,80.00
+433,3,2,6870,2024-09-09,Ana Pereira,Remoção,"Avenida Paulista, 809","Rua das Palmeiras, 817",Renault Duster,180.00,,40.0,220.00
+434,2,1,4532,2024-08-01,Daniel das Neves,Troca de Pneus,"Travessa de Souza, 37","Rua de Pinto, 8",Chevrolet Onix,80.0,,,80.0
+435,3,1,3374,2024-08-20,Cecília Souza,Carga de Bateria,"Conjunto Carvalho, 32",Fazenda de Lopes,Honda Civic,80.0,6.82,31.82,118.64
+436,2,1,4121,2024-05-22,Clara Gonçalves,Carga de Bateria,"Jardim de Pereira, 54","Trevo de Barbosa, 2",Fiat Palio,80.0,,0.28,80.28
+437,1,1,7799,2024-07-08,Thiago da Luz,Carga de Bateria,"Setor Campos, 65","Núcleo Cecília Martins, 22",Chevrolet Onix,80.0,,27.07,107.07
+438,1,1,5745,2024-03-15,Yuri Gomes,Carga de Bateria,Pátio de Gonçalves,Trevo de Farias,Ford Ranger,80.0,39.83,,119.83
+439,3,1,8950,2024-08-25,Manuela Costela,Carga de Bateria,"Núcleo Isabel Lopes, 7","Vereda Mendes, 80",Ford Ranger,80.0,,,80.0
+440,1,1,5945,2024-05-08,Marina Pinto,Troca de Pneus,"Vila de Martins, 8","Avenida de Lima, 53",Honda Civic,80.0,36.96,,116.96
+441,1,1,2544,2024-03-29,Isabel Sales,Troca de Pneus,"Aeroporto Mariane Caldeira, 57","Colônia Rodrigues, 41",Ford Ranger,80.0,,,80.0
+442,1,1,5932,2024-02-24,Sra. Alana Fernandes,Remoção,Fazenda Luiz Otávio das Neves,"Lago Kamilly da Paz, 16",Toyota Corolla,180.0,8.34,,188.34
+443,2,1,4494,2024-02-15,André Carvalho,Remoção,"Trecho de Alves, 74",Conjunto de Costa,Honda Civic,180.0,16.04,35.52,231.56
+444,3,1,4696,2024-09-11,Bruno Cavalcanti,Carga de Bateria,"Ladeira Ribeiro, 83","Trecho Murilo Souza, 70",Toyota Corolla,80.0,,,80.0
+445,1,1,7278,2024-02-17,Isabella Almeida,Troca de Pneus,"Sítio de Jesus, 316","Jardim da Cunha, 56",Fiat Palio,80.0,16.08,19.47,115.55
+446,1,1,7280,2024-03-16,Yago Peixoto,Carga de Bateria,"Rodovia Luiz Gustavo Carvalho, 35","Núcleo de Cunha, 5",Toyota Corolla,80.0,37.35,12.02,129.37
+447,1,1,7591,2024-07-19,João Pereira,Remoção,"Fazenda de Gomes, 16","Parque de Teixeira, 267",Ford Ranger,180.0,,,180.0
+448,2,1,3557,2024-01-20,Sr. Thiago Araújo,Troca de Pneus,"Área Lima, 61","Esplanada de Cardoso, 54",Fiat Palio,80.0,,,80.0
+449,1,1,6457,2024-02-06,Isabel Mendes,Carga de Bateria,"Feira Isabel Carvalho, 309",Alameda da Costa,Chevrolet Onix,80.0,9.38,19.48,108.86
+450,1,1,7278,2024-09-04,Nina Ribeiro,Troca de Pneus,Vila de da Luz,"Viaduto Mendes, 3",Chevrolet Onix,80.0,,26.37,106.37
+451,3,2,4470,2024-06-16,Ana Laura Moreira,Remoção,"Feira Ferreira, 25",Fazenda Alana Nunes,Ford Ranger,180.0,,,180.0
+452,3,2,1717,2024-09-01,Luiza Araújo,Remoção,Via Farias,"Colônia Sales, 27",Toyota Corolla,180.0,,,180.0
+453,2,2,1377,2024-06-30,Mariana da Rosa,Carga de Bateria,"Rua Davi Lucas da Rosa, 96","Praia de Sales, 4",Toyota Corolla,80.0,,14.74,94.74
+454,2,2,7374,2024-06-07,Amanda Sales,Remoção,"Feira da Cruz, 6","Recanto Ana Beatriz da Cruz, 99",Chevrolet Onix,180.0,,23.5,203.5
+455,1,2,3571,2024-04-26,João Pedro Oliveira,Troca de Pneus,"Vale Elisa Cardoso, 2",Morro Giovanna Fernandes,Chevrolet Onix,80.0,24.2,17.73,121.93
+456,2,2,4551,2024-03-12,Luiz Fernando Cunha,Remoção,"Travessa de Ferreira, 62","Passarela Miguel Freitas, 13",Honda Civic,180.0,7.02,,187.02
+457,2,2,5582,2024-08-29,Daniel Caldeira,Remoção,"Condomínio de Barbosa, 2","Vereda Ana Vitória das Neves, 75",Honda Civic,180.0,6.18,,186.18
+458,3,2,8225,2024-01-21,Pedro Henrique Pereira,Troca de Pneus,"Viela Maria Julia Nogueira, 73","Rua de Vieira, 5",Honda Civic,80.0,,14.29,94.29
+459,3,2,7350,2024-01-22,Letícia da Cruz,Remoção,"Alameda de Araújo, 99",Estrada Ian da Luz,Chevrolet Onix,180.0,28.02,,208.02
+460,1,2,4661,2024-04-10,Vinicius Freitas,Troca de Pneus,"Condomínio Rezende, 22","Ladeira Heitor Gomes, 4",Honda Civic,80.0,,,80.0
+461,1,2,7360,2024-08-15,Maria Julia Silveira,Carga de Bateria,"Praia de da Costa, 1","Travessa Viana, 4",Honda Civic,80.0,,,80.0
+462,3,2,7665,2024-06-17,Alexandre Gonçalves,Troca de Pneus,"Largo Maria Eduarda da Mata, 28","Fazenda de da Conceição, 23",Toyota Corolla,80.0,,33.74,113.74
+463,3,2,8318,2024-01-25,Lorena Azevedo,Remoção,"Condomínio Duarte, 85","Distrito de Pires, 37",Fiat Palio,180.0,,9.8,189.8
+464,2,2,9946,2024-05-15,Luiz Felipe Freitas,Troca de Pneus,Alameda de Alves,"Passarela de Barros, 49",Ford Ranger,80.0,34.29,16.54,130.83
+465,3,2,2572,2024-04-18,Maria Sophia Freitas,Carga de Bateria,"Setor Kaique Fernandes, 41","Quadra Novaes, 8",Chevrolet Onix,80.0,,37.02,117.02
+466,1,2,4098,2024-02-23,Diego Melo,Carga de Bateria,"Vereda Fogaça, 41","Recanto de Souza, 8",Ford Ranger,80.0,,,80.0
+467,1,2,6556,2024-06-22,Luiz Otávio Cunha,Troca de Pneus,"Residencial Azevedo, 61","Pátio Melo, 40",Ford Ranger,80.0,0.37,,80.37
+468,2,3,7162,2024-08-23,Bryan Silveira,Carga de Bateria,"Rua Ana da Cunha, 62","Distrito Cunha, 5",Honda Civic,80.0,8.61,39.43,128.04
+469,1,3,3385,2024-08-12,Sr. Gabriel Carvalho,Remoção,"Rodovia de Cardoso, 99","Vila de da Conceição, 352",Honda Civic,180.0,3.06,8.58,191.64
+470,3,3,2185,2024-01-23,Bruno Carvalho,Carga de Bateria,"Trecho Vieira, 670","Morro de Gomes, 61",Fiat Palio,80.0,,,80.0
+471,1,3,1131,2024-01-28,Elisa Freitas,Carga de Bateria,"Área de Rezende, 5","Esplanada de Vieira, 9",Ford Ranger,80.0,11.55,,91.55
+472,2,3,8621,2024-01-25,Agatha Vieira,Troca de Pneus,"Parque Paulo da Costa, 46","Área de Vieira, 39",Toyota Corolla,80.0,32.71,25.83,138.54
+473,1,3,5849,2024-06-27,Mirella Barbosa,Remoção,"Chácara de Ferreira, 425","Núcleo Lopes, 82",Toyota Corolla,180.0,,35.49,215.49
+474,2,3,8490,2024-06-29,Arthur Duarte,Carga de Bateria,Lagoa de Costa,"Distrito de Martins, 53",Toyota Corolla,80.0,33.88,,113.88
+475,2,3,7408,2024-09-24,João Guilherme Rezende,Troca de Pneus,"Loteamento de Teixeira, 23","Pátio de Monteiro, 12",Fiat Palio,80.0,10.99,,90.99
+476,3,3,3991,2024-07-07,Nicole Nunes,Carga de Bateria,"Chácara da Costa, 157","Aeroporto Maria Julia Rezende, 4",Toyota Corolla,80.0,10.97,9.9,100.87
+477,2,3,8626,2024-08-11,Nicolas Araújo,Carga de Bateria,"Parque Sarah da Rosa, 82","Esplanada de Peixoto, 9",Toyota Corolla,80.0,,,80.0
+478,3,3,2675,2024-04-16,Pedro Miguel Rocha,Carga de Bateria,"Trecho de Oliveira, 16","Vereda Isabelly da Costa, 12",Toyota Corolla,80.0,,7.09,87.09
+479,2,3,7622,2024-05-17,Luigi Gonçalves,Troca de Pneus,"Distrito de da Mota, 33","Loteamento de Souza, 34",Honda Civic,80.0,23.02,,103.02
+480,2,3,8199,2024-01-31,Raul da Luz,Troca de Pneus,"Vale Pereira, 62",Rodovia de Melo,Fiat Palio,80.0,25.36,6.33,111.69
+481,1,3,8493,2024-04-07,Benjamin Monteiro,Remoção,"Fazenda Pereira, 9","Trevo Maria Clara Melo, 59",Honda Civic,180.0,,38.93,218.93
+482,3,3,2566,2024-08-04,Kevin da Paz,Troca de Pneus,"Núcleo Davi Luiz Lima, 55",Alameda da Paz,Chevrolet Onix,80.0,1.83,,81.83
+483,1,3,1041,2024-06-05,Ana Beatriz Sales,Troca de Pneus,"Trecho de Teixeira, 46","Jardim de da Mota, 20",Toyota Corolla,80.0,23.44,15.68,119.12
+484,3,3,3954,2024-08-26,Sofia das Neves,Troca de Pneus,"Aeroporto Igor Novaes, 2","Parque Monteiro, 89",Honda Civic,80.0,,33.33,113.33
+485,1,4,9821,2024-03-14,Vicente Costa,Troca de Pneus,"Distrito de Costa, 26","Conjunto Enzo Moraes, 68",Honda Civic,80.0,,11.61,91.61
+486,1,4,4172,2024-05-07,Francisco Lima,Remoção,Distrito Barros,"Feira Costa, 76",Honda Civic,180.0,17.99,0.99,198.98
+487,3,4,4172,2024-04-23,Rafaela Campos,Troca de Pneus,"Núcleo de da Mata, 7","Jardim de Rodrigues, 433",Toyota Corolla,80.0,35.68,,115.68
+488,3,4,2354,2024-08-14,Maria Julia da Cunha,Troca de Pneus,"Rua Vieira, 7","Colônia Cardoso, 6",Honda Civic,80.0,,,80.0
+489,1,4,5866,2024-09-13,Isabella Farias,Carga de Bateria,Passarela de Oliveira,"Conjunto Sales, 35",Honda Civic,80.0,,,80.0
+490,3,4,6782,2024-01-11,Isis da Conceição,Carga de Bateria,"Estrada Ana Luiza Pinto, 4","Favela de Gomes, 614",Ford Ranger,80.0,,6.76,86.76
+491,2,4,1447,2024-09-07,Isaac Mendes,Carga de Bateria,"Avenida da Rocha, 67","Residencial de Carvalho, 387",Ford Ranger,80.0,,31.05,111.05
+492,3,4,6292,2024-03-04,Sra. Cecília da Luz,Carga de Bateria,"Alameda de Novaes, 837","Viela de Lima, 9",Chevrolet Onix,80.0,,1.37,81.37
+493,1,4,7228,2024-02-04,Amanda Nunes,Remoção,"Via Rodrigues, 79",Via Raul da Costa,Fiat Palio,180.0,,25.18,205.18
+494,1,4,9863,2024-06-11,Cecília Porto,Carga de Bateria,"Favela Vieira, 5","Vereda Viana, 47",Chevrolet Onix,80.0,2.71,4.84,87.55
+495,1,4,1087,2024-05-24,Srta. Maria Alice Viana,Troca de Pneus,Distrito de Vieira,"Campo da Costa, 2",Honda Civic,80.0,,,80.0
+496,3,4,1949,2024-06-12,Vitor Hugo Castro,Remoção,"Pátio Heitor Vieira, 19","Lagoa de Peixoto, 29",Honda Civic,180.0,,,180.0
+497,1,4,7243,2024-04-07,Davi Lucca Carvalho,Remoção,"Ladeira Jesus, 68","Rua de Rodrigues, 80",Chevrolet Onix,180.0,15.05,23.66,218.71
+498,3,4,8652,2024-06-05,Benjamin Cavalcanti,Remoção,"Setor da Rosa, 77","Sítio de Viana, 98",Honda Civic,180.0,,33.22,213.22
+499,1,4,2403,2024-07-23,Isabel Carvalho,Carga de Bateria,"Residencial de Gonçalves, 71","Feira de Azevedo, 642",Toyota Corolla,80.0,,,80.0
+500,2,4,1044,2024-01-05,Sra. Laura Teixeira,Troca de Pneus,"Rua de Melo, 42","Morro da Paz, 3",Ford Ranger,80.0,,23.82,103.82
+501,2,4,7989,2024-04-30,Kaique Campos,Troca de Pneus,"Vereda Diego Moraes, 15","Fazenda Melissa Costa, 201",Honda Civic,80.0,,32.43,112.43
+502,1,5,7966,2024-08-13,Ana Laura da Rocha,Carga de Bateria,"Núcleo Vieira, 35","Trecho de Gonçalves, 31",Ford Ranger,80.0,9.34,29.92,119.26
+503,1,5,8485,2024-03-18,Dra. Olivia Rodrigues,Carga de Bateria,"Pátio Luiz Fernando Vieira, 49","Via de Silva, 40",Toyota Corolla,80.0,,,80.0
+504,2,5,6793,2024-05-25,Maria Clara Costela,Troca de Pneus,"Morro de da Conceição, 91","Ladeira de Ramos, 1",Ford Ranger,80.0,0.01,0.46,80.47
+505,1,5,1224,2024-05-08,Thomas Martins,Remoção,"Rua de Fogaça, 825","Residencial Raquel Duarte, 54",Toyota Corolla,180.0,7.14,11.31,198.45
+506,3,5,5521,2024-01-03,Lucca Teixeira,Carga de Bateria,"Favela Ana Laura Moraes, 85",Conjunto Ana Luiza das Neves,Honda Civic,80.0,29.41,36.86,146.27
+507,2,5,1170,2024-07-13,Danilo Moura,Troca de Pneus,"Distrito Fogaça, 65","Distrito de Martins, 35",Chevrolet Onix,80.0,,9.77,89.77
+508,1,5,7866,2024-05-11,Ana Julia Fogaça,Carga de Bateria,"Viaduto Peixoto, 43","Recanto de Barros, 53",Chevrolet Onix,80.0,,36.98,116.98
+509,3,5,7670,2024-06-26,Lorena Fogaça,Carga de Bateria,"Trevo Santos, 812","Avenida da Mota, 81",Honda Civic,80.0,,,80.0
+510,1,5,6309,2024-07-06,Sra. Letícia Moreira,Carga de Bateria,"Área Moreira, 921","Lago Sales, 73",Fiat Palio,80.0,,,80.0
+511,3,5,9914,2024-02-22,Letícia Sales,Troca de Pneus,"Praia Luiza Gonçalves, 1","Colônia de Cardoso, 894",Fiat Palio,80.0,,,80.0
+512,2,5,6506,2024-08-28,Carolina Monteiro,Carga de Bateria,"Feira Mendes, 83","Travessa Caldeira, 789",Chevrolet Onix,80.0,38.12,5.67,123.79
+513,3,5,2928,2024-07-31,Sra. Ana da Luz,Carga de Bateria,"Estação Letícia da Cunha, 50","Pátio Maria Luiza Monteiro, 8",Chevrolet Onix,80.0,22.91,23.21,126.12
+514,2,5,9051,2024-04-05,Mariana Nascimento,Troca de Pneus,"Vale de Dias, 99","Conjunto de da Cunha, 2",Chevrolet Onix,80.0,,24.2,104.2
+515,3,5,9980,2024-08-03,João Felipe da Luz,Remoção,"Parque Gonçalves, 536","Ladeira João Felipe Silveira, 35",Toyota Corolla,180.0,,,180.0
+516,1,5,7936,2024-01-16,Brenda Nogueira,Carga de Bateria,"Aeroporto Nunes, 3",Travessa Lucas Gabriel Pinto,Honda Civic,80.0,,,80.0
+517,3,5,8433,2024-08-17,Otávio Correia,Remoção,Estrada Catarina Pereira,"Praia Fogaça, 744",Toyota Corolla,180.0,24.01,23.52,227.53
+518,2,5,6388,2024-05-19,Cauã Silveira,Carga de Bateria,"Jardim de Cunha, 33","Quadra Azevedo, 95",Chevrolet Onix,80.0,20.33,36.23,136.56
+519,3,6,8253,2024-09-14,Carlos Eduardo Peixoto,Troca de Pneus,"Lagoa de Cardoso, 641","Praia de Dias, 8",Chevrolet Onix,80.0,8.68,5.9,94.58
+520,3,6,2705,2024-05-11,Sra. Kamilly Carvalho,Remoção,"Condomínio Thales Moura, 2","Setor Caio da Luz, 6",Chevrolet Onix,180.0,28.83,,208.83
+521,2,6,6292,2024-08-10,Pedro Lucas da Luz,Carga de Bateria,Trevo de Caldeira,"Favela Thomas da Conceição, 30",Chevrolet Onix,80.0,9.21,28.8,118.01
+522,1,6,9784,2024-08-13,Isabelly Mendes,Troca de Pneus,"Loteamento Aragão, 69","Vila de Caldeira, 93",Toyota Corolla,80.0,,5.7,85.7
+523,1,6,5408,2024-05-24,Lara Nunes,Remoção,"Colônia de da Cruz, 37","Lago Brenda Ferreira, 38",Ford Ranger,180.0,3.07,,183.07
+524,1,6,6423,2024-03-03,Emanuel Nascimento,Carga de Bateria,Loteamento de Gomes,"Estrada Paulo Caldeira, 53",Fiat Palio,80.0,,9.49,89.49
+525,3,6,9944,2024-07-09,Eloah da Paz,Remoção,"Vale Luiz Miguel Correia, 28","Viela Cardoso, 1",Ford Ranger,180.0,39.2,17.19,236.39
+526,3,6,6150,2024-05-30,Sr. Gabriel Moraes,Carga de Bateria,Chácara Lívia Araújo,"Condomínio Olivia Santos, 2",Toyota Corolla,80.0,36.9,26.14,143.04
+527,1,6,2973,2024-08-07,Isis Pereira,Troca de Pneus,Estação Cardoso,Viaduto de da Mata,Fiat Palio,80.0,,,80.0
+528,1,6,5625,2024-08-02,Clarice Barros,Carga de Bateria,"Vereda de Araújo, 74","Estação Fernandes, 27",Fiat Palio,80.0,,10.33,90.33
+529,1,6,8446,2024-01-22,Stephany Campos,Troca de Pneus,Fazenda Mariane Freitas,"Ladeira de Duarte, 46",Honda Civic,80.0,15.22,,95.22
+530,3,6,5339,2024-07-09,Lucca Rocha,Remoção,Parque de Moreira,"Recanto Farias, 94",Toyota Corolla,180.0,32.57,9.34,221.91
+531,3,6,6854,2024-01-09,Sr. Gabriel da Paz,Carga de Bateria,"Jardim Ana Clara das Neves, 9","Área de Fernandes, 37",Chevrolet Onix,80.0,,,80.0
+532,1,6,6720,2024-04-12,Elisa Vieira,Remoção,"Área Fernandes, 79","Largo Lucca Alves, 31",Ford Ranger,180.0,38.32,20.97,239.29
+533,3,6,3422,2024-06-13,Matheus Farias,Troca de Pneus,"Ladeira Emanuelly Costa, 4","Favela Carlos Eduardo Cavalcanti, 829",Fiat Palio,80.0,,,80.0
+534,3,6,7630,2024-08-25,Emanuella Barbosa,Troca de Pneus,"Jardim Pires, 72","Feira Fogaça, 15",Ford Ranger,80.0,,,80.0
+535,2,6,7150,2024-02-04,Davi Lucas Nascimento,Troca de Pneus,"Setor de Peixoto, 41","Praia de Silva, 45",Chevrolet Onix,80.0,,27.24,107.24
+536,2,7,2490,2024-05-22,Dr. Enzo Araújo,Troca de Pneus,"Esplanada Emilly Lopes, 6","Favela Gabriel Caldeira, 73",Toyota Corolla,80.0,,19.58,99.58
+537,1,7,3819,2024-06-09,Maria Luiza Farias,Remoção,"Trevo de Vieira, 27","Travessa Silva, 31",Honda Civic,180.0,,26.2,206.2
+538,2,7,7389,2024-04-03,Carlos Eduardo Pereira,Carga de Bateria,"Colônia Costela, 60","Pátio Breno Duarte, 265",Fiat Palio,80.0,25.35,18.61,123.96
+539,3,7,4045,2024-03-15,Ana Julia Araújo,Remoção,"Alameda Dias, 159",Trevo da Paz,Honda Civic,180.0,,,180.0
+540,1,7,1586,2024-08-10,Beatriz da Mota,Remoção,"Ladeira João Gabriel Fogaça, 72",Vila Nina Vieira,Chevrolet Onix,180.0,12.98,,192.98
+541,1,7,8239,2024-03-09,Luigi Pires,Carga de Bateria,"Avenida Nascimento, 18","Distrito de Souza, 30",Ford Ranger,80.0,11.01,,91.01
+542,2,7,8611,2024-05-24,Luna Monteiro,Carga de Bateria,"Largo da Mata, 370","Esplanada de Aragão, 7",Toyota Corolla,80.0,0.55,27.57,108.12
+543,2,7,2336,2024-07-29,João Lucas Castro,Remoção,Ladeira João Felipe Silva,"Loteamento Farias, 51",Honda Civic,180.0,,,180.0
+544,1,7,2989,2024-05-31,Diego Freitas,Troca de Pneus,"Estação da Mota, 178","Favela da Luz, 600",Toyota Corolla,80.0,,9.25,89.25
+545,2,7,7582,2024-08-19,Eloah Ferreira,Remoção,"Praça Cardoso, 39","Rua de Farias, 78",Fiat Palio,180.0,,,180.0
+546,3,7,5512,2024-02-03,Sra. Laura Vieira,Troca de Pneus,"Praça Fogaça, 646","Núcleo João Lucas da Rocha, 46",Chevrolet Onix,80.0,,,80.0
+547,3,7,1693,2024-02-03,Thales Fernandes,Carga de Bateria,"Parque de Pires, 6","Quadra Clara Nunes, 35",Ford Ranger,80.0,17.32,,97.32
+548,1,7,9976,2024-05-15,Alexandre da Luz,Carga de Bateria,Vereda Duarte,"Área Ferreira, 71",Fiat Palio,80.0,,,80.0
+549,2,7,1582,2024-01-06,Ana Oliveira,Troca de Pneus,"Pátio Pedro Miguel Campos, 43",Praça Moreira,Toyota Corolla,80.0,,28.9,108.9
+550,1,7,5885,2024-09-05,Sra. Joana Novaes,Remoção,Rua Vieira,Jardim Joaquim Costela,Chevrolet Onix,180.0,4.06,19.22,203.28
+551,3,7,8449,2024-05-16,Matheus Viana,Remoção,"Núcleo de Moraes, 69",Estrada Lucas Gabriel Souza,Ford Ranger,180.0,24.35,22.61,226.96
+552,3,7,2200,2024-03-03,Sr. Rafael das Neves,Troca de Pneus,Chácara Mariana Barbosa,Distrito de Cardoso,Honda Civic,80.0,4.52,33.35,117.87
+553,1,7,9414,2024-02-04,Luiz Miguel Gomes,Troca de Pneus,"Sítio Maria Clara Nogueira, 237","Feira Porto, 16",Chevrolet Onix,80.0,27.56,,107.56
+554,1,8,5010,2024-04-02,Elisa Aragão,Troca de Pneus,"Conjunto Cardoso, 73","Lago Matheus Silveira, 19",Honda Civic,80.0,35.46,,115.46
+555,3,8,2155,2024-04-09,Sr. Luiz Otávio Vieira,Carga de Bateria,"Largo de Melo, 84","Loteamento Farias, 5",Toyota Corolla,80.0,,,80.0
+556,3,8,7110,2024-07-08,Noah Cardoso,Carga de Bateria,"Esplanada Nathan Moura, 65","Rua de Mendes, 597",Honda Civic,80.0,2.55,32.83,115.38
+557,3,8,9146,2024-01-09,Leonardo Oliveira,Carga de Bateria,"Quadra Marina Nogueira, 61","Viela Rebeca Lima, 27",Toyota Corolla,80.0,,,80.0
+558,2,8,5096,2024-01-31,João Gabriel Ribeiro,Remoção,"Sítio Valentina Oliveira, 268","Vereda Peixoto, 333",Ford Ranger,180.0,25.94,,205.94
+559,3,8,4449,2024-06-01,Dra. Fernanda Nascimento,Carga de Bateria,"Pátio de Oliveira, 49","Recanto Henrique Castro, 8",Ford Ranger,80.0,,7.54,87.54
+560,1,8,2393,2024-01-15,Gustavo Henrique da Mota,Remoção,"Loteamento da Mata, 44","Largo Lima, 29",Ford Ranger,180.0,,39.88,219.88
+561,2,8,9465,2024-07-10,João Lucas Santos,Troca de Pneus,"Estrada Alana Vieira, 7",Colônia da Rosa,Honda Civic,80.0,,7.84,87.84
+562,1,8,5300,2024-02-08,Luiz Fernando Duarte,Carga de Bateria,"Quadra Stephany Ferreira, 82",Parque da Conceição,Toyota Corolla,80.0,16.53,,96.53
+563,2,8,6313,2024-01-31,Arthur Freitas,Troca de Pneus,Favela Correia,"Via de Teixeira, 38",Honda Civic,80.0,,31.8,111.8
+564,1,8,2450,2024-04-11,Miguel Viana,Carga de Bateria,"Quadra de Viana, 6",Estrada João Moreira,Fiat Palio,80.0,,,80.0
+565,1,8,5402,2024-01-25,Samuel Monteiro,Carga de Bateria,"Área de Rodrigues, 460","Ladeira de Nogueira, 29",Toyota Corolla,80.0,32.2,17.35,129.55
+566,3,8,2674,2024-07-28,Maria Luiza Rezende,Remoção,"Sítio Duarte, 7","Distrito Gomes, 80",Honda Civic,180.0,,,180.0
+567,3,8,7095,2024-08-04,Luiz Fernando Araújo,Carga de Bateria,"Lago Calebe Carvalho, 96","Lago da Rocha, 64",Chevrolet Onix,80.0,22.39,18.22,120.61
+568,2,8,7853,2024-09-02,Pietra Dias,Carga de Bateria,"Lago Silva, 56","Loteamento de Lima, 86",Chevrolet Onix,80.0,,,80.0
+569,3,8,5876,2024-02-07,Dr. Noah Carvalho,Remoção,"Aeroporto de Nunes, 2","Largo Juan Mendes, 63",Ford Ranger,180.0,,30.12,210.12
+570,1,8,2339,2024-09-03,Dr. Yuri da Rocha,Remoção,"Largo Mendes, 136","Largo da Mota, 1",Ford Ranger,180.0,25.38,,205.38
+571,2,9,4866,2024-07-04,Ana Carolina Aragão,Carga de Bateria,"Quadra de Ferreira, 54","Parque Nascimento, 33",Honda Civic,80.0,,,80.0
+572,3,9,8388,2024-03-17,Ana Carolina Rocha,Remoção,"Recanto Nogueira, 35","Alameda Luiz Gustavo Moura, 9",Ford Ranger,180.0,32.79,36.0,248.79
+573,3,9,7048,2024-04-29,Sr. Joaquim Barbosa,Troca de Pneus,"Rua Davi Lucas Correia, 354","Lago da Mata, 26",Ford Ranger,80.0,31.91,18.4,130.31
+574,3,9,2654,2024-05-18,Dra. Eloah Barbosa,Carga de Bateria,Fazenda Lucca Moreira,"Sítio de Gonçalves, 94",Honda Civic,80.0,5.99,38.23,124.22
+575,1,9,1248,2024-05-30,João Miguel da Paz,Troca de Pneus,"Favela Camila Fogaça, 76","Colônia Sophie Silva, 31",Ford Ranger,80.0,12.04,,92.04
+576,3,9,1589,2024-04-13,João Guilherme Martins,Troca de Pneus,"Trevo de Mendes, 48","Trecho Luiz Miguel Pinto, 32",Fiat Palio,80.0,37.11,,117.11
+577,3,9,7394,2024-02-03,Renan Gomes,Carga de Bateria,"Distrito Fernandes, 22","Avenida Carlos Eduardo Campos, 20",Fiat Palio,80.0,35.65,27.95,143.6
+578,1,9,7555,2024-08-16,Alexia da Conceição,Remoção,Condomínio Rezende,"Colônia Maysa Fogaça, 73",Ford Ranger,180.0,24.91,,204.91
+579,1,9,5291,2024-08-10,Luiz Henrique Ribeiro,Troca de Pneus,Vereda de Silva,"Vila da Paz, 1",Fiat Palio,80.0,12.37,,92.37
+580,2,9,5187,2024-03-18,Sofia Aragão,Troca de Pneus,"Lago de Gonçalves, 40","Conjunto de Mendes, 74",Toyota Corolla,80.0,,1.65,81.65
+581,3,9,5219,2024-01-13,Marcos Vinicius Nascimento,Carga de Bateria,"Setor Nicole da Conceição, 92","Rua Novaes, 3",Toyota Corolla,80.0,6.75,16.21,102.96
+582,3,9,7042,2024-03-10,Laís Monteiro,Carga de Bateria,"Aeroporto Silva, 9","Largo Camila Duarte, 69",Ford Ranger,80.0,22.64,31.24,133.88
+583,2,9,3698,2024-03-25,Luana Melo,Remoção,"Quadra de Moraes, 38","Chácara Moreira, 58",Fiat Palio,180.0,22.12,,202.12
+584,3,9,6526,2024-09-08,Nina Lopes,Carga de Bateria,"Conjunto Bryan Araújo, 32","Favela Pinto, 9",Ford Ranger,80.0,,34.33,114.33
+585,1,9,9680,2024-04-23,Eduardo Pinto,Troca de Pneus,"Pátio de Oliveira, 56","Esplanada Noah Costa, 787",Honda Civic,80.0,15.67,34.76,130.43
+586,1,9,5984,2024-08-08,Srta. Sarah Dias,Carga de Bateria,"Loteamento Peixoto, 129",Residencial de Melo,Ford Ranger,80.0,33.4,2.19,115.59
+587,3,9,8597,2024-03-17,Rebeca Viana,Remoção,Jardim da Cunha,"Travessa Igor da Cunha, 687",Toyota Corolla,180.0,11.41,,191.41
+588,3,10,8835,2024-04-17,Joana Rocha,Troca de Pneus,Passarela de Farias,"Parque de Duarte, 22",Ford Ranger,80.0,,5.14,85.14
+589,3,10,4954,2024-05-24,Sarah Sales,Troca de Pneus,"Distrito Nathan Silveira, 6","Viela de Barbosa, 52",Chevrolet Onix,80.0,,,80.0
+590,1,10,1066,2024-07-04,Caroline Dias,Carga de Bateria,Trecho Fernandes,"Parque de Cardoso, 3",Fiat Palio,80.0,8.78,,88.78
+591,3,10,3337,2024-08-15,Ana Júlia Moreira,Carga de Bateria,"Viaduto Almeida, 8",Estrada das Neves,Chevrolet Onix,80.0,4.67,,84.67
+592,2,10,7638,2024-08-18,Ana Laura Vieira,Troca de Pneus,"Conjunto Amanda Dias, 62","Trevo de Porto, 5",Fiat Palio,80.0,13.05,,93.05
+593,1,10,8642,2024-09-11,João Pinto,Troca de Pneus,"Avenida Fogaça, 8","Campo Gomes, 371",Toyota Corolla,80.0,,16.09,96.09
+594,2,10,8373,2024-05-13,Cecília Farias,Troca de Pneus,"Feira Davi Lucas Fernandes, 25","Loteamento de Freitas, 98",Fiat Palio,80.0,,,80.0
+595,3,10,7067,2024-07-19,Matheus Carvalho,Carga de Bateria,"Colônia Valentina Moreira, 21","Colônia Stephany Peixoto, 355",Fiat Palio,80.0,6.76,,86.76
+596,1,10,6224,2024-02-11,Miguel Fogaça,Troca de Pneus,"Via de Alves, 57","Esplanada Daniela Pires, 322",Chevrolet Onix,80.0,32.33,26.04,138.37
+597,2,10,8123,2024-09-01,Pietra Melo,Troca de Pneus,"Lago Lopes, 6",Praia de Vieira,Toyota Corolla,80.0,,,80.0
+598,3,10,8006,2024-09-24,Eloah Cardoso,Carga de Bateria,"Praça Henrique Nascimento, 59","Esplanada Vitor Gabriel das Neves, 10",Toyota Corolla,80.0,25.08,,105.08
+599,1,10,8738,2024-08-18,Sabrina Porto,Troca de Pneus,Esplanada Novaes,"Travessa de Pires, 34",Toyota Corolla,80.0,21.38,5.99,107.37
+600,1,10,9428,2024-03-26,Dr. Antônio Peixoto,Carga de Bateria,"Vale Fernando Pereira, 80","Recanto Isaac Freitas, 78",Honda Civic,80.0,29.98,33.47,143.45
+601,3,10,2836,2024-04-28,Dr. Nicolas Campos,Carga de Bateria,"Praça de Porto, 6","Ladeira de Souza, 76",Chevrolet Onix,80.0,36.03,3.98,120.01
+602,3,10,7836,2024-07-11,Fernando Pereira,Carga de Bateria,"Favela de Azevedo, 17",Quadra de Carvalho,Fiat Palio,80.0,,4.27,84.27
+603,2,10,7542,2024-07-19,Yago Silva,Carga de Bateria,"Campo de Pinto, 49","Loteamento Caldeira, 37",Honda Civic,80.0,13.83,13.07,106.9
+604,3,10,9856,2024-05-12,Maysa da Mata,Carga de Bateria,"Viela Luiza da Rosa, 732","Vila da Costa, 78",Chevrolet Onix,80.0,,14.76,94.76
+605,2,11,8254,2024-08-11,Bernardo da Conceição,Carga de Bateria,"Favela Lívia Sales, 5",Travessa Dias,Ford Ranger,80.0,,29.22,109.22
+656,3,13,1119,2024-06-25,Maria Luiza das Neves,Carga de Bateria,Aeroporto Vieira,"Distrito Alves, 24",Chevrolet Onix,80.0,3.29,3.32,86.61
+606,1,11,3624,2024-08-13,Sra. Alice Alves,Remoção,"Colônia Marcelo Pinto, 89","Colônia de da Conceição, 20",Chevrolet Onix,180.0,,4.14,184.14
+607,3,11,5556,2024-05-23,Olivia Pereira,Remoção,Colônia Isadora Fernandes,"Recanto de Gonçalves, 64",Fiat Palio,180.0,,,180.0
+608,2,11,5466,2024-08-22,Thales Caldeira,Remoção,"Trecho Pires, 78","Praia Alves, 646",Honda Civic,180.0,9.95,16.96,206.91
+609,3,11,8135,2024-04-18,Samuel Nascimento,Remoção,"Vereda de Sales, 42","Distrito de Fogaça, 1",Chevrolet Onix,180.0,6.84,15.78,202.62
+610,1,11,3038,2024-02-11,Sr. Caio Costa,Carga de Bateria,"Loteamento Eduardo Ramos, 22","Rodovia Ribeiro, 99",Toyota Corolla,80.0,31.91,,111.91
+611,1,11,7612,2024-05-12,Maria Sophia Azevedo,Carga de Bateria,"Feira Yuri Almeida, 41","Rodovia de Caldeira, 76",Chevrolet Onix,80.0,,,80.0
+612,1,11,7077,2024-03-07,Eloah Gomes,Troca de Pneus,"Residencial João Dias, 24","Distrito Marcelo Correia, 59",Honda Civic,80.0,,,80.0
+613,3,11,9918,2024-02-05,Davi Luiz da Mota,Carga de Bateria,Trevo Diego Rezende,"Condomínio Nascimento, 8",Honda Civic,80.0,1.22,,81.22
+614,3,11,3375,2024-02-21,Theo Araújo,Troca de Pneus,"Distrito da Costa, 35",Via de Lopes,Fiat Palio,80.0,5.57,,85.57
+615,1,11,1794,2024-04-08,Lucas Costa,Troca de Pneus,"Alameda Martins, 692",Travessa Matheus da Paz,Fiat Palio,80.0,37.25,33.36,150.61
+616,2,11,5994,2024-01-22,Sabrina Ramos,Carga de Bateria,"Travessa da Mata, 59","Quadra Anthony Ferreira, 60",Fiat Palio,80.0,,,80.0
+617,1,11,3393,2024-04-14,Bryan Novaes,Troca de Pneus,"Campo de Dias, 19","Vila de Caldeira, 9",Chevrolet Onix,80.0,9.55,36.47,126.02
+618,3,11,8257,2024-03-17,Sr. Diego Viana,Remoção,"Área Ana Beatriz Fogaça, 981",Trevo de da Rosa,Chevrolet Onix,180.0,,,180.0
+619,1,11,6052,2024-04-02,Daniela Monteiro,Remoção,"Alameda Barbosa, 72","Morro Jesus, 99",Chevrolet Onix,180.0,,19.8,199.8
+620,1,11,7720,2024-06-23,Igor da Mota,Remoção,"Colônia Silva, 36","Campo Maria Martins, 99",Toyota Corolla,180.0,,,180.0
+621,1,11,5550,2024-04-30,Pedro Henrique Silva,Troca de Pneus,"Favela de Gonçalves, 9","Condomínio de Castro, 51",Fiat Palio,80.0,14.85,21.07,115.92
+622,1,12,2816,2024-03-10,Sra. Ana Luiza Dias,Carga de Bateria,"Área Santos, 84","Vereda Emanuelly Pereira, 26",Toyota Corolla,80.0,,,80.0
+623,2,12,7576,2024-05-29,Vicente Almeida,Troca de Pneus,"Rua Lívia Jesus, 94","Praça Thiago Viana, 1",Ford Ranger,80.0,6.16,,86.16
+624,1,12,7040,2024-03-06,Maria Vitória Gonçalves,Carga de Bateria,"Vereda de Monteiro, 82","Quadra de Aragão, 45",Chevrolet Onix,80.0,,,80.0
+625,1,12,8872,2024-06-10,Ana Sophia Santos,Carga de Bateria,"Alameda da Mota, 57","Esplanada Nogueira, 23",Fiat Palio,80.0,,,80.0
+626,1,12,4669,2024-03-03,Ana Carolina Azevedo,Remoção,"Largo de Costa, 36","Recanto Rezende, 613",Ford Ranger,180.0,,,180.0
+627,1,12,2666,2024-06-27,Mirella Azevedo,Carga de Bateria,Rodovia Gabriela Silva,"Núcleo de Cardoso, 11",Toyota Corolla,80.0,,10.7,90.7
+628,1,12,4663,2024-06-18,André das Neves,Carga de Bateria,"Favela Leonardo das Neves, 81","Largo Novaes, 85",Chevrolet Onix,80.0,,,80.0
+629,3,12,9185,2024-05-01,André Aragão,Remoção,"Via de da Paz, 4","Recanto Lívia Cardoso, 74",Fiat Palio,180.0,7.65,,187.65
+630,3,12,4985,2024-02-02,Nicolas Moura,Carga de Bateria,"Recanto Nascimento, 51",Distrito Erick Nunes,Fiat Palio,80.0,24.54,,104.54
+631,1,12,1876,2024-04-08,Kaique Nunes,Remoção,"Recanto da Rosa, 25","Viela Emanuel Freitas, 478",Chevrolet Onix,180.0,,7.6,187.6
+632,2,12,3578,2024-05-30,Renan Castro,Remoção,"Chácara de Pires, 736","Via de Moraes, 70",Toyota Corolla,180.0,,,180.0
+633,1,12,3621,2024-09-22,Sr. Daniel Costela,Carga de Bateria,Morro de Dias,Colônia Maria Sophia Castro,Fiat Palio,80.0,17.34,26.09,123.43
+634,3,12,2709,2024-05-11,Melissa Pinto,Remoção,"Ladeira Barbosa, 391",Jardim Kaique Ferreira,Ford Ranger,180.0,,,180.0
+635,3,12,5168,2024-01-31,Srta. Giovanna Caldeira,Troca de Pneus,"Parque de Nunes, 21",Fazenda Kaique Freitas,Ford Ranger,80.0,,28.32,108.32
+636,3,12,4481,2024-04-18,Benjamin Novaes,Carga de Bateria,"Praça Marcos Vinicius Souza, 63","Estação da Mota, 52",Toyota Corolla,80.0,,,80.0
+637,1,12,3090,2024-04-13,Bruno Silva,Remoção,"Quadra de Lopes, 73","Recanto Laura da Conceição, 50",Fiat Palio,180.0,,4.55,184.55
+638,3,12,8028,2024-04-04,Daniela Alves,Troca de Pneus,"Colônia da Rosa, 30","Sítio Otávio Nunes, 12",Toyota Corolla,80.0,,,80.0
+639,1,12,1329,2024-02-19,Ana Julia da Conceição,Carga de Bateria,"Lagoa das Neves, 70","Estação Luiz Otávio Dias, 41",Chevrolet Onix,80.0,,,80.0
+640,3,13,7003,2024-03-01,Anthony Moreira,Remoção,Recanto Guilherme Novaes,"Parque de Gomes, 3",Chevrolet Onix,180.0,,38.65,218.65
+641,1,13,1033,2024-04-19,Marcelo Moreira,Remoção,Recanto Alves,"Loteamento Nogueira, 84",Chevrolet Onix,180.0,13.29,2.18,195.47
+642,1,13,4676,2024-02-04,Vicente Silveira,Troca de Pneus,"Ladeira Lima, 97","Estação das Neves, 52",Honda Civic,80.0,,35.08,115.08
+643,2,13,1694,2024-04-20,Gabriela Peixoto,Troca de Pneus,"Largo de Fogaça, 341","Quadra da Mata, 20",Ford Ranger,80.0,23.17,,103.17
+644,2,13,4552,2024-07-01,Sra. Stephany Cunha,Troca de Pneus,Condomínio de Jesus,"Condomínio de Teixeira, 2",Ford Ranger,80.0,,39.88,119.88
+645,2,13,9052,2024-07-19,Eduardo Nogueira,Troca de Pneus,Travessa de Pinto,"Rodovia Ferreira, 180",Ford Ranger,80.0,,,80.0
+646,3,13,5003,2024-03-16,Leonardo Ribeiro,Carga de Bateria,"Pátio Noah Gomes, 97","Avenida de Caldeira, 59",Ford Ranger,80.0,,,80.0
+647,2,13,7062,2024-08-14,Mariana Novaes,Troca de Pneus,"Condomínio de Cardoso, 52","Viaduto Davi Ferreira, 720",Honda Civic,80.0,21.02,1.48,102.5
+648,2,13,1204,2024-04-26,Bryan da Cunha,Remoção,"Colônia de Cunha, 328","Via de Pinto, 17",Honda Civic,180.0,20.7,,200.7
+649,2,13,9324,2024-04-07,Ana Vitória da Rosa,Troca de Pneus,"Conjunto da Rocha, 94","Jardim Correia, 82",Fiat Palio,80.0,5.22,4.08,89.3
+650,1,13,4896,2024-05-12,Maitê Souza,Troca de Pneus,Trevo João Gabriel da Cunha,"Lago Souza, 10",Chevrolet Onix,80.0,9.62,,89.62
+651,2,13,5728,2024-06-03,Mariana Souza,Troca de Pneus,"Recanto de Rocha, 13",Campo da Paz,Toyota Corolla,80.0,14.54,33.21,127.75
+652,1,13,7067,2024-07-09,Letícia Ribeiro,Remoção,"Condomínio Rafael Martins, 81","Loteamento da Cunha, 77",Toyota Corolla,180.0,,,180.0
+653,2,13,8216,2024-04-17,Benício da Rosa,Carga de Bateria,"Passarela Nunes, 693","Morro de das Neves, 29",Ford Ranger,80.0,,,80.0
+654,2,13,8375,2024-07-27,Isaac da Mata,Troca de Pneus,"Fazenda de Sales, 93","Favela Esther Nascimento, 845",Toyota Corolla,80.0,,,80.0
+655,3,13,7993,2024-04-21,Heloísa Gonçalves,Carga de Bateria,"Quadra de Santos, 51","Aeroporto de Gonçalves, 3",Ford Ranger,80.0,38.07,10.53,128.6
+657,1,14,6653,2024-01-08,Alana Pinto,Carga de Bateria,"Vale Novaes, 70",Recanto Cavalcanti,Chevrolet Onix,80.0,,31.45,111.45
+658,3,14,5290,2024-03-27,Thiago Pinto,Troca de Pneus,"Largo Lívia Pinto, 984","Núcleo Luiz Felipe Novaes, 6",Fiat Palio,80.0,,,80.0
+659,3,14,3748,2024-07-16,Srta. Stephany Cunha,Troca de Pneus,"Residencial Samuel Correia, 826",Fazenda Duarte,Toyota Corolla,80.0,,31.39,111.39
+660,3,14,9348,2024-03-11,João Felipe Correia,Remoção,"Viela Nina Barros, 24",Alameda Rodrigues,Ford Ranger,180.0,,,180.0
+661,1,14,6516,2024-02-14,Maria Luiza Fogaça,Remoção,"Estação Jesus, 54","Passarela Mendes, 25",Chevrolet Onix,180.0,29.52,,209.52
+662,1,14,2454,2024-07-31,Gustavo Henrique Fernandes,Carga de Bateria,"Morro de Nunes, 183","Parque Esther Cardoso, 7",Fiat Palio,80.0,35.93,30.04,145.97
+663,2,14,8678,2024-07-18,Pedro Lucas Castro,Carga de Bateria,"Praça de Cavalcanti, 96","Fazenda Ana Beatriz Lopes, 1",Fiat Palio,80.0,,,80.0
+664,2,14,5807,2024-08-11,Henrique Farias,Remoção,"Praia Silva, 62","Rodovia Lorenzo Dias, 356",Honda Civic,180.0,,,180.0
+665,3,14,3940,2024-08-27,Dra. Amanda Novaes,Troca de Pneus,"Sítio Aragão, 8","Setor Alana Castro, 322",Honda Civic,80.0,,34.55,114.55
+666,3,14,3606,2024-01-06,Enrico Gomes,Troca de Pneus,"Largo de Pinto, 18","Quadra Viana, 96",Fiat Palio,80.0,,,80.0
+667,2,14,9318,2024-09-18,João Gabriel Cardoso,Troca de Pneus,"Vila Fernando da Costa, 815","Vereda Cardoso, 375",Toyota Corolla,80.0,34.43,,114.43
+668,1,14,1846,2024-03-03,Fernanda Fernandes,Carga de Bateria,"Passarela André da Mata, 42","Morro Gustavo Henrique Aragão, 11",Fiat Palio,80.0,34.52,,114.52
+669,3,14,2455,2024-09-24,Yago da Mota,Remoção,"Rua Almeida, 68","Favela da Mota, 11",Honda Civic,180.0,39.91,,219.91
+670,2,14,9161,2024-04-17,Ana Júlia Barros,Troca de Pneus,"Vila Castro, 13","Esplanada Julia Campos, 86",Toyota Corolla,80.0,,3.19,83.19
+671,2,14,5466,2024-05-06,Larissa Campos,Remoção,"Sítio Rezende, 55","Ladeira de Nogueira, 152",Ford Ranger,180.0,21.33,35.78,237.11
+672,3,14,8103,2024-07-13,Ana Julia Souza,Remoção,"Ladeira Pinto, 3","Estrada de Lopes, 21",Honda Civic,180.0,,28.07,208.07
+673,3,14,4997,2024-05-20,Isabel da Luz,Troca de Pneus,"Sítio de Dias, 57","Vila Silva, 594",Honda Civic,80.0,,27.31,107.31
+674,3,15,4575,2024-09-21,Maitê Porto,Carga de Bateria,"Campo Cardoso, 35","Quadra de Barros, 7",Ford Ranger,80.0,,,80.0
+675,1,15,6209,2024-08-17,Benjamin Teixeira,Carga de Bateria,"Fazenda Lívia da Cruz, 9","Avenida Luna Aragão, 12",Chevrolet Onix,80.0,20.51,26.85,127.36
+676,2,15,5951,2024-04-13,Lucas Gabriel Pinto,Remoção,"Trecho Leonardo Nogueira, 45","Rua de Campos, 980",Fiat Palio,180.0,,,180.0
+677,2,15,1007,2024-07-21,João Felipe Castro,Remoção,"Loteamento Porto, 39",Ladeira de Fogaça,Fiat Palio,180.0,37.97,36.07,254.04
+678,2,15,6320,2024-01-18,João Felipe Moreira,Carga de Bateria,"Alameda Lorenzo Cunha, 420",Lago Isis Castro,Toyota Corolla,80.0,,,80.0
+679,3,15,5005,2024-01-20,Pedro Henrique Fogaça,Troca de Pneus,"Quadra Pinto, 20",Praia de Silva,Toyota Corolla,80.0,29.28,29.1,138.38
+680,1,15,1688,2024-03-08,Luiza Novaes,Remoção,"Aeroporto Pedro Henrique Cardoso, 363","Fazenda Marcelo Carvalho, 922",Fiat Palio,180.0,39.94,,219.94
+681,3,15,7768,2024-01-25,Samuel Alves,Remoção,"Favela da Rocha, 22","Pátio Ribeiro, 12",Chevrolet Onix,180.0,,13.69,193.69
+682,1,15,8030,2024-06-18,Bárbara Pinto,Troca de Pneus,"Pátio Cecília Alves, 302","Estrada Fernandes, 73",Fiat Palio,80.0,,,80.0
+683,3,15,6141,2024-01-18,Maria Julia Gonçalves,Troca de Pneus,"Via Freitas, 64","Praia Jesus, 22",Toyota Corolla,80.0,6.12,,86.12
+684,2,15,4391,2024-09-23,Fernando Rocha,Remoção,Alameda Souza,"Vale Maria Melo, 36",Toyota Corolla,180.0,19.2,,199.2
+685,2,15,4716,2024-02-01,Eloah Lopes,Troca de Pneus,"Praia de Farias, 390","Passarela Ribeiro, 221",Chevrolet Onix,80.0,,,80.0
+686,1,15,4419,2024-05-06,Arthur Caldeira,Troca de Pneus,"Parque Araújo, 28","Recanto de Nascimento, 8",Honda Civic,80.0,,6.43,86.43
+687,3,15,8218,2024-05-26,Rebeca Vieira,Carga de Bateria,Feira de Nascimento,"Praia de Mendes, 47",Chevrolet Onix,80.0,,14.5,94.5
+688,2,15,2642,2024-07-23,Ana Laura Ribeiro,Troca de Pneus,"Fazenda Fernandes, 876","Alameda Clara Fernandes, 39",Toyota Corolla,80.0,9.34,,89.34
+689,2,15,9919,2024-01-13,Beatriz Duarte,Remoção,Sítio Diogo da Cruz,"Vila de Caldeira, 38",Honda Civic,180.0,,35.79,215.79
+690,2,15,7049,2024-01-22,Ana Lívia Rodrigues,Carga de Bateria,"Setor Jesus, 84","Núcleo Rezende, 52",Ford Ranger,80.0,,,80.0
+691,2,16,1685,2024-01-04,Pietro Lopes,Carga de Bateria,"Estação Elisa Alves, 532","Campo Costa, 48",Toyota Corolla,80.0,,13.75,93.75
+692,1,16,8742,2024-03-20,Luna da Costa,Carga de Bateria,"Esplanada de Gomes, 858","Travessa de Sales, 1",Toyota Corolla,80.0,,8.96,88.96
+693,3,16,7511,2024-03-19,Ana Laura Porto,Troca de Pneus,Estrada de Melo,"Alameda Farias, 37",Fiat Palio,80.0,16.77,39.6,136.37
+694,3,16,4674,2024-03-25,Sofia Pinto,Remoção,"Lagoa da Cruz, 44","Viaduto de Lopes, 5",Toyota Corolla,180.0,,0.72,180.72
+695,2,16,5718,2024-07-18,Cauê Lopes,Troca de Pneus,"Praça de Moreira, 31","Pátio de Araújo, 6",Toyota Corolla,80.0,,,80.0
+696,1,16,5428,2024-03-13,Vitor Gabriel Alves,Troca de Pneus,"Residencial Maria Cecília Silveira, 11","Colônia da Rosa, 755",Honda Civic,80.0,17.88,23.0,120.88
+697,1,16,7586,2024-01-26,Yasmin Vieira,Troca de Pneus,"Lagoa Lucas Gabriel da Rosa, 72",Travessa Emilly Peixoto,Fiat Palio,80.0,,0.49,80.49
+698,1,16,7171,2024-04-11,Alana Correia,Troca de Pneus,"Feira Leonardo Santos, 14","Feira Gomes, 1",Ford Ranger,80.0,,,80.0
+699,3,16,2905,2024-02-11,Bianca Teixeira,Remoção,"Aeroporto Miguel Lopes, 821","Largo Peixoto, 3",Chevrolet Onix,180.0,,27.83,207.83
+700,2,16,6889,2024-02-23,Heitor Oliveira,Remoção,"Estrada Moura, 97","Conjunto Sarah da Costa, 36",Ford Ranger,180.0,2.52,15.02,197.54
+701,1,16,1378,2024-09-04,Gustavo Henrique da Rosa,Carga de Bateria,Rua Stephany da Rosa,"Praia Costa, 461",Toyota Corolla,80.0,,,80.0
+702,2,16,7257,2024-02-08,Ana Vitória Costa,Remoção,"Ladeira de Moraes, 466","Alameda Pedro Lucas Barbosa, 670",Honda Civic,180.0,11.12,,191.12
+703,1,16,5116,2024-06-30,Maitê Aragão,Remoção,"Lago de Azevedo, 57","Campo de Teixeira, 42",Toyota Corolla,180.0,29.31,,209.31
+704,2,16,8379,2024-05-03,Calebe Jesus,Troca de Pneus,"Avenida Dias, 69","Praça Jesus, 6",Honda Civic,80.0,,12.51,92.51
+705,1,16,5297,2024-09-08,Nicolas Ramos,Carga de Bateria,"Parque Vicente Jesus, 595","Rodovia de Moreira, 93",Chevrolet Onix,80.0,,22.56,102.56
+706,1,16,6093,2024-05-18,Laís Martins,Carga de Bateria,"Viela Mendes, 99","Estação Davi Lucca Cardoso, 38",Fiat Palio,80.0,,,80.0
+707,1,16,7706,2024-03-03,Leandro Almeida,Carga de Bateria,"Rodovia de Moraes, 94","Avenida Lopes, 995",Toyota Corolla,80.0,,,80.0
+708,2,16,8601,2024-03-20,Francisco Araújo,Troca de Pneus,"Lago Monteiro, 80","Morro Moreira, 29",Toyota Corolla,80.0,,15.25,95.25
+709,3,17,2788,2024-08-01,Davi Lucas Almeida,Troca de Pneus,"Recanto Freitas, 58","Trecho de Fernandes, 144",Fiat Palio,80.0,,8.54,88.54
+710,3,17,8217,2024-04-30,Dr. Pedro Lucas Teixeira,Carga de Bateria,"Jardim Moura, 198",Alameda Cardoso,Toyota Corolla,80.0,,,80.0
+711,1,17,9470,2024-08-13,Maria Alice Campos,Remoção,Sítio Silveira,"Alameda de da Paz, 93",Ford Ranger,180.0,17.56,,197.56
+712,2,17,9454,2024-09-10,Dr. Paulo Ferreira,Remoção,Colônia Vieira,"Viaduto de Araújo, 70",Chevrolet Onix,180.0,37.07,,217.07
+713,1,17,3821,2024-04-28,Milena da Cruz,Carga de Bateria,"Esplanada de Freitas, 708","Recanto das Neves, 60",Ford Ranger,80.0,4.83,27.87,112.7
+714,1,17,7081,2024-01-08,Juan Ribeiro,Remoção,"Passarela Farias, 18","Área Ryan Castro, 5",Fiat Palio,180.0,,6.07,186.07
+715,1,17,3731,2024-08-19,Leonardo da Cunha,Remoção,"Trecho de Aragão, 928","Pátio Yago Pinto, 62",Fiat Palio,180.0,,14.83,194.83
+716,3,17,3744,2024-06-29,Enzo Moreira,Remoção,"Campo de da Cruz, 24","Estrada Carolina Peixoto, 46",Ford Ranger,180.0,,,180.0
+717,1,17,1686,2024-05-08,Eduarda Costa,Troca de Pneus,"Fazenda Gonçalves, 26","Estação de Rodrigues, 34",Honda Civic,80.0,,,80.0
+718,2,17,7614,2024-09-24,Isadora Barbosa,Remoção,Parque Nogueira,"Trevo João Lucas Castro, 44",Honda Civic,180.0,27.96,,207.96
+719,1,17,5567,2024-08-06,Rodrigo Viana,Troca de Pneus,"Parque Clarice Pereira, 417","Estação de da Rocha, 68",Ford Ranger,80.0,3.78,17.71,101.49
+720,1,17,9013,2024-09-19,Dr. Pedro Henrique da Rocha,Remoção,"Recanto de Lima, 665","Feira Vieira, 428",Chevrolet Onix,180.0,22.13,,202.13
+721,3,17,3073,2024-01-17,Clara Ribeiro,Carga de Bateria,"Vila Bianca da Rosa, 9","Viaduto Vitor Gabriel Lopes, 74",Fiat Palio,80.0,35.37,4.54,119.91
+722,1,17,4167,2024-03-11,Diogo Cardoso,Carga de Bateria,"Alameda João Gabriel Almeida, 561","Distrito Peixoto, 4",Toyota Corolla,80.0,,11.91,91.91
+723,1,17,8481,2024-04-11,André Fernandes,Carga de Bateria,"Via Eloah Lima, 26","Travessa de Nascimento, 63",Chevrolet Onix,80.0,,,80.0
+724,2,17,6368,2024-08-16,Gabriela Lopes,Remoção,"Conjunto Correia, 73","Parque de Barros, 96",Honda Civic,180.0,20.58,14.15,214.73
+725,1,17,5471,2024-08-03,Vicente da Mata,Carga de Bateria,"Viaduto de Moreira, 4","Núcleo Monteiro, 99",Fiat Palio,80.0,,,80.0
+726,1,18,6077,2024-02-28,Joana Souza,Remoção,"Esplanada de Ferreira, 88","Avenida Luiz Felipe Martins, 85",Toyota Corolla,180.0,,10.57,190.57
+727,3,18,2684,2024-02-20,Dra. Vitória Dias,Troca de Pneus,"Núcleo de da Costa, 61","Loteamento de da Cunha, 844",Chevrolet Onix,80.0,,39.54,119.54
+728,2,18,3037,2024-09-09,João Pedro da Rocha,Remoção,"Viaduto da Mota, 6","Rua de Araújo, 35",Chevrolet Onix,180.0,29.26,,209.26
+729,3,18,3531,2024-03-23,Pedro Henrique Cunha,Troca de Pneus,"Colônia João Lucas Araújo, 5","Vereda da Cruz, 52",Ford Ranger,80.0,,,80.0
+730,2,18,1218,2024-07-24,Sra. Vitória Ferreira,Carga de Bateria,"Núcleo de Rocha, 68","Recanto de Gomes, 501",Chevrolet Onix,80.0,24.41,,104.41
+731,3,18,4320,2024-01-03,Olivia Rodrigues,Carga de Bateria,"Parque Alana Novaes, 31","Praça de Jesus, 94",Toyota Corolla,80.0,,,80.0
+732,3,18,2773,2024-04-08,Elisa Rodrigues,Remoção,"Vale Diogo Rocha, 57","Lagoa Sales, 115",Fiat Palio,180.0,27.04,,207.04
+733,2,18,9712,2024-06-10,Sr. Anthony Duarte,Remoção,"Viaduto Maria Julia Fernandes, 80",Vila Caldeira,Chevrolet Onix,180.0,4.88,38.07,222.95
+734,2,18,9064,2024-04-09,Maria Clara Sales,Troca de Pneus,"Jardim de Rodrigues, 27","Favela de Barros, 478",Ford Ranger,80.0,,,80.0
+735,2,18,6085,2024-03-01,Vitor Carvalho,Troca de Pneus,"Esplanada de Teixeira, 2","Distrito Gustavo Henrique Barros, 86",Toyota Corolla,80.0,,,80.0
+736,2,18,2141,2024-09-06,Gustavo da Cruz,Carga de Bateria,"Avenida de da Mota, 97","Viela Moreira, 3",Honda Civic,80.0,19.33,5.99,105.32
+737,1,18,9138,2024-09-09,Ana Beatriz Duarte,Carga de Bateria,"Estação Thiago da Mata, 37","Residencial de Fernandes, 804",Chevrolet Onix,80.0,27.41,,107.41
+738,3,18,9022,2024-08-25,Lucca Peixoto,Remoção,"Viela Gabriela Moreira, 921","Vale Evelyn Vieira, 6",Ford Ranger,180.0,21.84,,201.84
+739,3,18,7504,2024-02-24,Otávio Fernandes,Carga de Bateria,"Estrada Cunha, 95","Pátio Henrique Lima, 4",Toyota Corolla,80.0,,,80.0
+740,3,18,4311,2024-09-16,Srta. Ana Clara Rocha,Carga de Bateria,"Vale de Araújo, 10",Praça Barbosa,Fiat Palio,80.0,34.11,6.11,120.22
+741,1,18,5044,2024-03-15,Thiago Cardoso,Carga de Bateria,"Lago Mariana Cardoso, 96","Distrito de Costela, 52",Toyota Corolla,80.0,,,80.0
+742,2,18,7308,2024-02-20,Alexandre Fernandes,Remoção,"Parque de Porto, 661","Pátio Lima, 54",Honda Civic,180.0,,2.9,182.9
+743,3,18,9845,2024-07-04,Sofia Ferreira,Carga de Bateria,Vereda da Rosa,Quadra Cardoso,Ford Ranger,80.0,4.07,,84.07
+744,1,19,5187,2024-09-02,Breno Araújo,Remoção,"Ladeira de Jesus, 49","Vale Barbosa, 84",Chevrolet Onix,180.0,12.15,38.42,230.57
+745,1,19,6194,2024-01-12,Maria Alice das Neves,Carga de Bateria,"Parque Ribeiro, 508","Setor Alves, 6",Toyota Corolla,80.0,30.81,34.98,145.79
+746,1,19,4279,2024-07-16,Ana Julia Gomes,Remoção,"Alameda Caldeira, 931","Pátio de Duarte, 34",Honda Civic,180.0,38.84,,218.84
+747,3,19,7006,2024-09-24,Sr. Lucas Gabriel Barbosa,Troca de Pneus,"Núcleo Lara Rocha, 478","Colônia de Porto, 10",Chevrolet Onix,80.0,,39.01,119.01
+748,2,19,6825,2024-08-04,Bernardo Cunha,Remoção,"Quadra Alves, 42","Viaduto Arthur Sales, 38",Fiat Palio,180.0,32.3,,212.3
+749,1,19,1800,2024-07-23,Clarice da Cunha,Troca de Pneus,"Parque da Cunha, 53","Lago Rocha, 7",Honda Civic,80.0,29.83,,109.83
+750,2,19,9322,2024-08-23,Maria Eduarda Costela,Remoção,Morro da Rocha,"Distrito Davi Lucas Costela, 59",Fiat Palio,180.0,,17.52,197.52
+751,1,19,5961,2024-05-27,Arthur Pinto,Troca de Pneus,"Ladeira de Aragão, 947","Feira Ferreira, 3",Ford Ranger,80.0,31.38,1.74,113.12
+752,3,19,1380,2024-07-06,Enzo Silveira,Troca de Pneus,"Trecho Isis Silveira, 14","Rua Rezende, 677",Toyota Corolla,80.0,,23.03,103.03
+753,1,19,6205,2024-02-27,Alana Pinto,Troca de Pneus,"Estrada Nascimento, 46","Feira de da Paz, 639",Ford Ranger,80.0,10.31,,90.31
+754,2,19,4786,2024-06-23,Pedro Henrique Sales,Troca de Pneus,"Rodovia Nina Oliveira, 2","Morro de Cavalcanti, 43",Honda Civic,80.0,9.32,,89.32
+755,1,19,6645,2024-08-26,Natália Araújo,Remoção,"Conjunto Maria Alice Cunha, 280","Colônia Kaique Nascimento, 75",Toyota Corolla,180.0,20.47,,200.47
+756,3,19,4166,2024-06-13,Sra. Ana Vitória Lima,Carga de Bateria,"Ladeira Porto, 86","Residencial Rafael Freitas, 592",Chevrolet Onix,80.0,,37.69,117.69
+757,3,19,1768,2024-03-22,Maysa da Costa,Troca de Pneus,"Avenida Monteiro, 6","Estrada Emanuella Melo, 599",Honda Civic,80.0,24.87,,104.87
+758,3,19,3456,2024-08-31,Daniela Moura,Remoção,"Lagoa Ramos, 599","Travessa da Costa, 61",Honda Civic,180.0,9.68,34.47,224.15
+759,2,19,9120,2024-05-29,Raul Viana,Carga de Bateria,"Fazenda de Moreira, 62","Chácara Leandro Viana, 8",Toyota Corolla,80.0,,,80.0
+760,2,19,9233,2024-06-27,Luiz Otávio Viana,Remoção,"Vereda Vitória da Costa, 69","Favela Joaquim das Neves, 67",Honda Civic,180.0,,,180.0
+761,3,20,7769,2024-06-13,Benício Cardoso,Troca de Pneus,Rodovia de Almeida,"Colônia de da Costa, 309",Ford Ranger,80.0,10.3,31.76,122.06
+762,1,20,1562,2024-09-07,Carolina Pires,Carga de Bateria,"Rua de Castro, 60",Aeroporto Isadora Pires,Toyota Corolla,80.0,16.3,13.67,109.97
+763,1,20,2949,2024-05-12,Bianca Monteiro,Carga de Bateria,"Sítio Heloísa Cavalcanti, 23","Viela Porto, 50",Fiat Palio,80.0,25.08,16.39,121.47
+764,2,20,8752,2024-03-22,Miguel Pereira,Carga de Bateria,"Distrito Rodrigues, 11","Praça Bruno da Mota, 4",Fiat Palio,80.0,34.05,,114.05
+765,1,20,3919,2024-03-06,Daniel Ferreira,Remoção,"Estação Moura, 1","Praça Costela, 26",Honda Civic,180.0,37.89,20.03,237.92
+766,1,20,2936,2024-04-13,Pedro Miguel Silva,Carga de Bateria,Pátio de Barbosa,"Trevo de Costela, 72",Fiat Palio,80.0,0.12,12.31,92.43
+767,2,20,6075,2024-06-17,Fernando Cardoso,Carga de Bateria,Esplanada Carvalho,"Avenida de Costa, 752",Toyota Corolla,80.0,18.86,32.45,131.31
+768,1,20,5838,2024-01-23,Breno Campos,Troca de Pneus,"Viela Benjamin Rocha, 39","Rua Dias, 28",Ford Ranger,80.0,33.36,18.98,132.34
+769,2,20,4117,2024-02-16,Benício Ribeiro,Carga de Bateria,"Núcleo de Gomes, 968","Vale de da Paz, 3",Toyota Corolla,80.0,33.22,,113.22
+770,2,20,9850,2024-06-26,Srta. Alana Cardoso,Carga de Bateria,"Pátio Sarah Moraes, 931","Rua de da Cunha, 180",Toyota Corolla,80.0,21.27,,101.27
+771,1,20,4459,2024-07-23,Srta. Melissa Melo,Remoção,"Parque de Monteiro, 317","Conjunto Viana, 50",Toyota Corolla,180.0,,29.04,209.04
+772,2,20,5416,2024-09-23,Isabel Nogueira,Carga de Bateria,"Viaduto de Nascimento, 659","Largo Joaquim Santos, 6",Honda Civic,80.0,12.93,,92.93
+773,2,20,1534,2024-06-03,Sophie Cardoso,Troca de Pneus,"Rua de Pereira, 6","Morro de Barbosa, 56",Fiat Palio,80.0,,,80.0
+774,1,20,2597,2024-01-24,Thiago Souza,Troca de Pneus,"Morro de Moreira, 85",Via Fernando Costela,Toyota Corolla,80.0,,,80.0
+775,1,20,1786,2024-05-23,Davi Luiz Rezende,Troca de Pneus,"Núcleo de das Neves, 15",Esplanada da Costa,Ford Ranger,80.0,,,80.0
+776,3,20,7078,2024-07-16,Camila da Cunha,Carga de Bateria,Área de Rodrigues,"Avenida Martins, 92",Fiat Palio,80.0,,,80.0
+777,1,20,2956,2024-03-14,Bárbara Duarte,Troca de Pneus,"Setor Lopes, 581","Favela de Sales, 8",Chevrolet Onix,80.0,21.73,,101.73

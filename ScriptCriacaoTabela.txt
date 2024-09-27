@@ -1,0 +1,82 @@
+
+CREATE TABLE AssistenciaAceita (
+    id_assistenciaaceita SERIAL PRIMARY KEY,
+    id_produto INT NOT NULL,
+    id_prestador INT NOT NULL,
+    codigo VARCHAR(50) NOT NULL,
+    dataassis DATE NOT NULL,
+    nome_segurado VARCHAR(100) NOT NULL,
+    servico VARCHAR(100),
+    enderecoretirada VARCHAR(200),
+    enderecoentrega VARCHAR(200),
+    veiculo VARCHAR(100),
+    valorsaida DECIMAL(10, 2),
+    valorhoraparada DECIMAL(10, 2),
+    valorhoratrabalhada DECIMAL(10, 2),
+    valortotalassist DECIMAL(10, 2)
+);
+
+
+CREATE TABLE AssistenciaCancelada (
+    id_assistenciacancelada SERIAL PRIMARY KEY,
+    id_produto INT NOT NULL,
+    id_prestador INT NOT NULL,
+    codigo VARCHAR(50) NOT NULL,
+    dataassis DATE NOT NULL,
+    nome_segurado VARCHAR(100) NOT NULL,
+    servico VARCHAR(100),
+    enderecoretirada VARCHAR(200),
+    enderecoentrega VARCHAR(200),
+    veiculo VARCHAR(100),
+    valorsaida DECIMAL(10, 2),
+    valorhoraparada DECIMAL(10, 2),
+    valorhoratrabalhada DECIMAL(10, 2),
+    valortotalassist DECIMAL(10, 2),
+    motivo VARCHAR(255) -- Campo para indicar o motivo do cancelamento
+);
+
+CREATE TABLE Carro (
+    id_carro SERIAL PRIMARY KEY,
+    id_prestador INT NOT NULL,
+    modelo VARCHAR(100) NOT NULL,
+    ano INT CHECK (ano >= 1886), -- Considerando o primeiro ano de fabricação de carros
+    cor VARCHAR(50),
+    combustivel VARCHAR(50),
+    placa VARCHAR(10) UNIQUE -- Placa única para cada veículo
+);
+
+CREATE TABLE Prestador (
+    id_prestador SERIAL PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    cpf VARCHAR(14) UNIQUE NOT NULL, -- CPF no formato XXX.XXX.XXX-XX
+    endereco VARCHAR(200),
+    cep VARCHAR(9), -- CEP no formato XXXXX-XXX
+    bairro VARCHAR(100),
+    datanascimento DATE,
+    cnh VARCHAR(20), -- CNH com possibilidade de conter letras e números
+    fotolink TEXT -- Link para a foto do prestador
+);
+
+CREATE TABLE Produto (
+    id_produto SERIAL PRIMARY KEY, -- Chave primária, gerada automaticamente
+    nome_produto VARCHAR(100) NOT NULL, -- Nome do produto
+    cnpj VARCHAR(14) NOT NULL, -- CNPJ da seguradora
+    porte VARCHAR(50), -- Porte da seguradora (ex: Pequeno, Médio, Grande)
+    fotoseguradora VARCHAR(255) -- Link da foto da seguradora
+);
+
+
+CREATE TABLE FatoAssistencia (
+    id_assistencia SERIAL PRIMARY KEY, -- Chave primária, gerada automaticamente
+    id_assistenciaaceita INT, -- Chave estrangeira para AssistenciaAceita
+    id_assistenciacancelada INT, -- Chave estrangeira para AssistenciaCancelada
+    id_prestador INT, -- Chave estrangeira para Prestador
+    id_produto INT, -- Chave estrangeira para Produto
+    FOREIGN KEY (id_assistenciaaceita) REFERENCES AssistenciaAceita(id_assistenciaaceita), -- Relacionamento com AssistenciaAceita
+    FOREIGN KEY (id_assistenciacancelada) REFERENCES AssistenciaCancelada(id_assistenciacancelada), -- Relacionamento com AssistenciaCancelada
+    FOREIGN KEY (id_prestador) REFERENCES Prestador(id_prestador), -- Relacionamento com Prestador
+    FOREIGN KEY (id_produto) REFERENCES Produto(id_produto) -- Relacionamento com Produto
+);
+
+
+
